@@ -25,7 +25,7 @@ Searching pattern size ( no dup. ) = 5040
 
 # Search
   -> Stopwatch start
-  -> Stopwatch stop : avg.time = 19797 ms [1 counts]
+  -> Stopwatch stop : avg.time = 4658 ms [1 counts]
 
 # Output
 success = 62.90% (3170/5040)

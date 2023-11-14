@@ -104,7 +104,7 @@ Searching pattern size ( no dup. ) = 5040
   -> Stopwatch start
      ... calculating
      ... done
-  -> Stopwatch stop : avg.time = 510 ms [1 counts]
+  -> Stopwatch stop : avg.time = 488 ms [1 counts]
 
 # Output
 success:

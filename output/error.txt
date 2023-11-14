@@ -1,0 +1,31 @@
+# DateTime: 2023/11/13 21:31:10
+# Version: 1.0
+# command: setup --tetfu v115@pgxhHexhHexhCewhDeyhBexhCeDiJeAAPNAzno2Als?CSASYlFDvAAAA --patterns NaN --fill i --output-base output/setups/congruent_setup.html
+# Error message summary:
+  * Pattern syntax error [FinderInitializeException]
+    - on 1 line :: Unknown block type: value=N [position=0char] [SyntaxException]
+    - Unknown block type: value=N [position=0char] [SyntaxException]
+
+
+------------------------------
+# Stack trace:
+------------------------------
+
+exceptions.FinderInitializeException: Pattern syntax error
+	at entry.Verify.createBlocksGenerator(Verify.java:72)
+	at entry.Verify.patterns(Verify.java:49)
+	at entry.Verify.patterns(Verify.java:59)
+	at entry.setup.SetupEntryPoint.run(SetupEntryPoint.java:138)
+	at entry.EntryPointMain.main(EntryPointMain.java:103)
+	at Main.main(Main.java:5)
+Caused by: common.SyntaxException: on 1 line :: Unknown block type: value=N [position=0char]
+	at common.pattern.LoadedPatternGenerator.parseInterpreter(LoadedPatternGenerator.java:57)
+	at common.pattern.LoadedPatternGenerator.<init>(LoadedPatternGenerator.java:38)
+	at entry.Verify.createBlocksGenerator(Verify.java:70)
+	... 5 more
+Caused by: common.SyntaxException: Unknown block type: value=N [position=0char]
+	at common.pattern.PatternInterpreter.parse(PatternInterpreter.java:45)
+	at common.pattern.PatternInterpreter.<init>(PatternInterpreter.java:17)
+	at common.pattern.LoadedPatternGenerator.parseInterpreter(LoadedPatternGenerator.java:55)
+	... 7 more
+==============================

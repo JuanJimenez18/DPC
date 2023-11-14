@@ -1,0 +1,73 @@
+# Setup Field
+[v115@vhHT1I0fBfnBKpBUqBFrBGtBRxB]
+__________
+OO________
+OO________
+ZZ___S____
+LZZ__SS___
+LZZTTTSJJJ
+LLZZTIIIIJ
+
+[v115@vhH66IlpBUrBGsBTtBZkBfsBUqB]
+__________
+LL________
+IL________
+IL___S____
+IZZ__SS___
+TTTZZJJJOO
+ITZZZZSJOO
+
+[v115@vhHT1IlpBUrBRsBSyBOpBfsBUqB]
+__________
+OO________
+OO________
+JJ___S____
+JZZ__SS___
+TTTZZIIIIL
+JTZZZZSLLL
+
+[v115@vhH66IUlB0pBVwBGsBTtBZkBfsB]
+__________
+LL________
+IL________
+IL___S____
+IZZ__SS___
+ZZZZTJJJOO
+IZZTTTSJOO
+
+[v115@vhHT1IUlB0pBVwBRsBSyBOpBfsB]
+__________
+OO________
+OO________
+JJ___S____
+JZZ__SS___
+ZZZZTIIIIL
+JZZTTTSLLL
+
+Using hold: use
+Drop: rotation180
+Mode: tspindouble
+Priority: no
+Last drop: 0
+Version: 1.0
+Searching patterns:
+  z*p7
+
+Searching pattern size ( no dup. ) = 5040
+
+# Calculate
+  -> Stopwatch start
+     ... calculating
+     ... done
+  -> Stopwatch stop : avg.time = 338 ms [1 counts]
+
+# Output
+success:
+15.28 % [770/5040]: http://fumen.zui.jp/?v115@vhHT1I0fBfnBKpBUqBFrBGtBRxB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhH66IlpBUrBGsBTtBZkBfsBUqB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHT1IlpBUrBRsBSyBOpBfsBUqB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhH66IUlB0pBVwBGsBTtBZkBfsB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHT1IUlB0pBVwBRsBSyBOpBfsB
+>>>
+OR  = 15.28 % [770/5040]
+AND = 0.00 % [0/5040]

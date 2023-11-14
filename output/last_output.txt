@@ -1,8 +1,8 @@
 # Setup Field
-**________
-**________
-**___*____
-***__**___
+_____**___
+______**__
+_____***__
+*____****_
 **********
 **********
 
@@ -24,9 +24,9 @@ Need Pieces = 8
 # Search
   -> Stopwatch start
      Search sub solutions for '--n-pieces'
-     Found solutions = 5
-     Found sub solutions = 5
-  -> Stopwatch stop : avg.time = 627 ms [1 counts]
+     Found solutions = 10
+     Found sub solutions = 10
+  -> Stopwatch stop : avg.time = 255 ms [1 counts]
 
 # Output file
 

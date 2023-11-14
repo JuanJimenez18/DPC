@@ -1,48 +1,93 @@
 # Setup Field
-[v115@vhHT1I0fBfnBKpBUqBFrBGtBRxB]
+[v115@vhHU4IzhB+nBKpB/tBUqBFrBRxB]
 __________
-OO________
-OO________
-ZZ___S____
-LZZ__SS___
-LZZTTTSJJJ
-LLZZTIIIIJ
+_____ZZ___
+______ZZ__
+_____OOJ__
+L____OOJS_
+LZZTTTJJSS
+LLZZTIIIIS
 
-[v115@vhH66IlpBUrBGsBTtBZkBfsBUqB]
+[v115@vhHU4IzhBfoB2pBUrBFsBSyBxuB]
 __________
-LL________
-IL________
-IL___S____
-IZZ__SS___
-TTTZZJJJOO
-ITZZZZSJOO
+_____ZZ___
+______ZZ__
+_____OOS__
+J____OOSS_
+JJJZZTTTSL
+IIIIZZTLLL
 
-[v115@vhHT1IlpBUrBRsBSyBOpBfsBUqB]
+[v115@vhHU4I+mBTiBKpB/tBFqB0sBRwB]
 __________
-OO________
-OO________
-JJ___S____
-JZZ__SS___
-TTTZZIIIIL
-JTZZZZSLLL
+_____ZZ___
+______ZZ__
+_____JOO__
+L____JOOS_
+LTTTJJZZSS
+LLTIIIIZZS
 
-[v115@vhH66IUlB0pBVwBGsBTtBZkBfsB]
+[v115@vhHU4IfnB0iB2pBFrBSxBTtBxuB]
 __________
-LL________
-IL________
-IL___S____
-IZZ__SS___
-ZZZZTJJJOO
-IZZTTTSJOO
+_____ZZ___
+______ZZ__
+_____SZZ__
+J____SSZZ_
+JJJTTTSLOO
+IIIITLLLOO
 
-[v115@vhHT1IUlB0pBVwBRsBSyBOpBfsB]
+[v115@vhHU4I+mB0iBKpB/sBFqBTtBRwB]
 __________
-OO________
-OO________
-JJ___S____
-JZZ__SS___
-ZZZZTIIIIL
-JZZTTTSLLL
+_____ZZ___
+______ZZ__
+_____JZZ__
+L____JSZZ_
+LTTTJJSSOO
+LLTIIIISOO
+
+[v115@vhHU4IqmBTiB2pB/tBUrB1xBxuB]
+__________
+_____ZZ___
+______ZZ__
+_____LOO__
+J____LOOS_
+JJJZZLLTSS
+IIIIZZTTTS
+
+[v115@vhHU4ITiBKpB/tBUqBRrB1xB+rB]
+__________
+_____ZZ___
+______ZZ__
+_____JOO__
+L____JOOS_
+LZZIIIITSS
+LLZZJJTTTS
+
+[v115@vhHU4IFiB2pBfsBznBUrBSyBxuB]
+__________
+_____ZZ___
+______ZZ__
+_____TTT__
+J____STOO_
+JJJZZSSOOL
+IIIIZZSLLL
+
+[v115@vhHU4ITiB2pB/tBFrB0sBqrBxuB]
+__________
+_____ZZ___
+______ZZ__
+_____LOO__
+J____LOOS_
+JJJTTTZZSS
+IIIITLLZZS
+
+[v115@vhHU4ICiB2pBVsBUrBTtB3sBxuB]
+__________
+_____ZZ___
+______ZZ__
+_____LLL__
+J____LTSS_
+JJJZZTTTOO
+IIIIZZSSOO
 
 Using hold: use
 Drop: rotation180
@@ -59,15 +104,20 @@ Searching pattern size ( no dup. ) = 5040
   -> Stopwatch start
      ... calculating
      ... done
-  -> Stopwatch stop : avg.time = 338 ms [1 counts]
+  -> Stopwatch stop : avg.time = 510 ms [1 counts]
 
 # Output
 success:
-15.28 % [770/5040]: http://fumen.zui.jp/?v115@vhHT1I0fBfnBKpBUqBFrBGtBRxB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhH66IlpBUrBGsBTtBZkBfsBUqB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHT1IlpBUrBRsBSyBOpBfsBUqB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhH66IUlB0pBVwBGsBTtBZkBfsB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHT1IUlB0pBVwBRsBSyBOpBfsB
+7.22 % [364/5040]: http://fumen.zui.jp/?v115@vhHU4IzhB+nBKpB/tBUqBFrBRxB
+8.10 % [408/5040]: http://fumen.zui.jp/?v115@vhHU4IzhBfoB2pBUrBFsBSyBxuB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4I+mBTiBKpB/tBFqB0sBRwB
+11.90 % [600/5040]: http://fumen.zui.jp/?v115@vhHU4IfnB0iB2pBFrBSxBTtBxuB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4I+mB0iBKpB/sBFqBTtBRwB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4IqmBTiB2pB/tBUrB1xBxuB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4ITiBKpB/tBUqBRrB1xB+rB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4IFiB2pBfsBznBUrBSyBxuB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4ITiB2pB/tBFrB0sBqrBxuB
+0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4ICiB2pBVsBUrBTtB3sBxuB
 >>>
-OR  = 15.28 % [770/5040]
+OR  = 20.73 % [1045/5040]
 AND = 0.00 % [0/5040]

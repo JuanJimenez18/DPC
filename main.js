@@ -25,8 +25,6 @@ const {read_cover} = require('./read_cover_sync.js');
 const {append_fumens} = require('./append_fumens_sync.txt');
 
 
-
-
 async function main() {
     let hold_dict;
 
@@ -54,8 +52,8 @@ async function main() {
     // }
 
     // example fumen v115@ChRpg0BeglDeRpg0Q4AeglBtywh0R4hlBtwwzhQ4Je?AgH is index 13 in the hold Z key list
-    let hold_pieces = 'oz' //Set to be the key value when iterating through the dict
-    let fumen = hold_dict[hold_pieces][0];
+    let hold_pieces = 'z' //Set to be the key value when iterating through the dict
+    let fumen = hold_dict[hold_pieces][13];
     let hold_piece = 'z'
 
 

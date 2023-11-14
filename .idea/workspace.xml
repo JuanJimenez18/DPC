@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc86dcc5-6ecd-4876-8bd1-624e4bf0e6dd" name="Changes" comment="" />
+    <list default="true" id="cc86dcc5-6ecd-4876-8bd1-624e4bf0e6dd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/holds/holds_all_tsd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/holds/holds_all_tsd.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/holds_no_tsd_new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/holds/holds_no_tsd_new.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/input/inputFumens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input/inputFumens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/last_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/last_output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/0.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,27 +25,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2Y7GgBeXw38dLaM5ca9abjKfyvI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.18.9&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jimenezj/WebstormProjects/dpc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "18.12.1",
+    "javascript.nodejs.core.library.typings.version": "18.18.9",
+    "last_opened_file_path": "C:/Users/jimenezj/IdeaProjects/DPC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jimenezj\WebstormProjects\dpc" />
@@ -85,6 +96,7 @@
       <workItem from="1699869313995" duration="15076000" />
       <workItem from="1699915077587" duration="6516000" />
       <workItem from="1699926322564" duration="9096000" />
+      <workItem from="1699938315054" duration="138000" />
     </task>
     <servers />
   </component>

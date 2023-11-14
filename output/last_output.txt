@@ -1,0 +1,34 @@
+# Setup Field
+**________
+**________
+**___*____
+***__**___
+**********
+**********
+
+# Initialize / User-defined
+Max height: 6
+Drop: softdrop
+Operations: 
+Exclude: none
+Using N pieces: == 8
+Using hold: use
+Searching patterns [order]:
+  z*p7
+
+# Initialize / System
+Version = 1.0
+Available processors = 8
+Need Pieces = 8
+
+# Search
+  -> Stopwatch start
+     Search sub solutions for '--n-pieces'
+     Found solutions = 5
+     Found sub solutions = 5
+  -> Stopwatch stop : avg.time = 627 ms [1 counts]
+
+# Output file
+
+# Finalize
+done

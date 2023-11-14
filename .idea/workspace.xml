@@ -6,23 +6,29 @@
   <component name="ChangeListManager">
     <list default="true" id="cc86dcc5-6ecd-4876-8bd1-624e4bf0e6dd" name="Changes" comment="Debugging and Webstorm push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/convert_cover_congruent.js" beforeDir="false" afterPath="$PROJECT_DIR$/convert_cover_congruent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_sfinder_percent_async.js" beforeDir="false" afterPath="$PROJECT_DIR$/call_sfinder_percent_async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_sfinder_setup_place_holds_async.js" beforeDir="false" afterPath="$PROJECT_DIR$/redacted/call_sfinder_setup_place_holds_async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/convert_setup_place_holds.js" beforeDir="false" afterPath="$PROJECT_DIR$/redacted/convert_setup_place_holds.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/covers/cover.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/covers/cover.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/last_output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/last_output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/10.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/12.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/13.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/5.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/6.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/7.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/8.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/percents/9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/percents/9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/6.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/percents/9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/place_holds.js" beforeDir="false" afterPath="$PROJECT_DIR$/place_holds.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_percents_async.js" beforeDir="false" afterPath="$PROJECT_DIR$/read_percents_async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_place_holds_setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/redacted/read_place_holds_setup.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,33 +73,34 @@
       <recent name="C:\Users\jimenezj\WebstormProjects\dpc\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jimenezj\IdeaProjects\DPC\redacted" />
       <recent name="C:\Users\jimenezj\WebstormProjects\dpc\redacted" />
       <recent name="C:\Users\jimenezj\WebstormProjects\dpc" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.main.js">
+    <configuration name="call_sfinder_percent_async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/call_sfinder_percent_async.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="convert_cover_congruent.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/convert_cover_congruent.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/main.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="place_holds_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/place_holds_2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="place_holds.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/place_holds.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="verify_holds.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/verify_holds.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.main.js" />
+        <item itemvalue="Node.js.call_sfinder_percent_async.js" />
         <item itemvalue="Node.js.place_holds.js" />
+        <item itemvalue="Node.js.place_holds_2.js" />
         <item itemvalue="Node.js.convert_cover_congruent.js" />
-        <item itemvalue="Node.js.verify_holds.js" />
-        <item itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +120,8 @@
       <workItem from="1699939180886" duration="27000" />
       <workItem from="1699964774248" duration="114000" />
       <workItem from="1699964938076" duration="1202000" />
-      <workItem from="1699976052600" duration="5000000" />
+      <workItem from="1699976052600" duration="5197000" />
+      <workItem from="1700001722952" duration="3716000" />
     </task>
     <task id="LOCAL-00001" summary="Debugging and Webstorm push">
       <created>1699938794568</created>

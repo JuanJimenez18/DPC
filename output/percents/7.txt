@@ -1,6 +1,6 @@
 # Setup Field
-_____XX___
-______XX__
+___XX_____
+____XX____
 _____XXX__
 X____XXXX_
 XXXXXXXXXX
@@ -25,43 +25,43 @@ Searching pattern size ( no dup. ) = 5040
 
 # Search
   -> Stopwatch start
-  -> Stopwatch stop : avg.time = 737 ms [1 counts]
+  -> Stopwatch stop : avg.time = 2581 ms [1 counts]
 
 # Output
-success = 100.00% (5040/5040)
+success = 89.05% (4488/5040)
 
 Success pattern tree [Head 3 pieces]:
-* -> 100.00 %
-∟ T -> 100.00 %
-  ∟ TI -> 100.00 %
+* -> 89.05 %
+∟ T -> 74.86 %
+  ∟ TI -> 95.83 %
     ∟ TIL -> 100.00 %
-    ∟ TIJ -> 100.00 %
+    ∟ TIJ -> 83.33 %
     ∟ TIS -> 100.00 %
-    ∟ TIZ -> 100.00 %
+    ∟ TIZ -> 95.83 %
     ∟ TIO -> 100.00 %
-  ∟ TL -> 100.00 %
-    ∟ TLI -> 100.00 %
-    ∟ TLJ -> 100.00 %
-    ∟ TLS -> 100.00 %
-    ∟ TLZ -> 100.00 %
+  ∟ TL -> 70.00 %
+    ∟ TLI -> 75.00 %
+    ∟ TLJ -> 50.00 %
+    ∟ TLS -> 50.00 %
+    ∟ TLZ -> 75.00 %
     ∟ TLO -> 100.00 %
-  ∟ TJ -> 100.00 %
-    ∟ TJI -> 100.00 %
-    ∟ TJL -> 100.00 %
+  ∟ TJ -> 50.00 %
+    ∟ TJI -> 50.00 %
+    ∟ TJL -> 50.00 %
     ∟ TJS -> 100.00 %
-    ∟ TJZ -> 100.00 %
-    ∟ TJO -> 100.00 %
-  ∟ TS -> 100.00 %
+    ∟ TJZ -> 50.00 %
+    ∟ TJO -> 0.00 %
+  ∟ TS -> 56.67 %
     ∟ TSI -> 100.00 %
-    ∟ TSL -> 100.00 %
-    ∟ TSJ -> 100.00 %
-    ∟ TSZ -> 100.00 %
-    ∟ TSO -> 100.00 %
-  ∟ TZ -> 100.00 %
-    ∟ TZI -> 100.00 %
-    ∟ TZL -> 100.00 %
-    ∟ TZJ -> 100.00 %
-    ∟ TZS -> 100.00 %
+    ∟ TSL -> 50.00 %
+    ∟ TSJ -> 45.83 %
+    ∟ TSZ -> 62.50 %
+    ∟ TSO -> 25.00 %
+  ∟ TZ -> 76.67 %
+    ∟ TZI -> 95.83 %
+    ∟ TZL -> 75.00 %
+    ∟ TZJ -> 50.00 %
+    ∟ TZS -> 62.50 %
     ∟ TZO -> 100.00 %
   ∟ TO -> 100.00 %
     ∟ TOI -> 100.00 %
@@ -69,24 +69,24 @@ Success pattern tree [Head 3 pieces]:
     ∟ TOJ -> 100.00 %
     ∟ TOS -> 100.00 %
     ∟ TOZ -> 100.00 %
-∟ I -> 100.00 %
-  ∟ IT -> 100.00 %
+∟ I -> 96.67 %
+  ∟ IT -> 95.83 %
     ∟ ITL -> 100.00 %
-    ∟ ITJ -> 100.00 %
+    ∟ ITJ -> 83.33 %
     ∟ ITS -> 100.00 %
-    ∟ ITZ -> 100.00 %
+    ∟ ITZ -> 95.83 %
     ∟ ITO -> 100.00 %
-  ∟ IL -> 100.00 %
+  ∟ IL -> 95.83 %
     ∟ ILT -> 100.00 %
-    ∟ ILJ -> 100.00 %
+    ∟ ILJ -> 83.33 %
     ∟ ILS -> 100.00 %
-    ∟ ILZ -> 100.00 %
+    ∟ ILZ -> 95.83 %
     ∟ ILO -> 100.00 %
-  ∟ IJ -> 100.00 %
-    ∟ IJT -> 100.00 %
-    ∟ IJL -> 100.00 %
+  ∟ IJ -> 91.67 %
+    ∟ IJT -> 83.33 %
+    ∟ IJL -> 83.33 %
     ∟ IJS -> 100.00 %
-    ∟ IJZ -> 100.00 %
+    ∟ IJZ -> 91.67 %
     ∟ IJO -> 100.00 %
   ∟ IS -> 100.00 %
     ∟ IST -> 100.00 %
@@ -94,10 +94,10 @@ Success pattern tree [Head 3 pieces]:
     ∟ ISJ -> 100.00 %
     ∟ ISZ -> 100.00 %
     ∟ ISO -> 100.00 %
-  ∟ IZ -> 100.00 %
-    ∟ IZT -> 100.00 %
-    ∟ IZL -> 100.00 %
-    ∟ IZJ -> 100.00 %
+  ∟ IZ -> 96.67 %
+    ∟ IZT -> 95.83 %
+    ∟ IZL -> 95.83 %
+    ∟ IZJ -> 91.67 %
     ∟ IZS -> 100.00 %
     ∟ IZO -> 100.00 %
   ∟ IO -> 100.00 %
@@ -106,36 +106,36 @@ Success pattern tree [Head 3 pieces]:
     ∟ IOJ -> 100.00 %
     ∟ IOS -> 100.00 %
     ∟ IOZ -> 100.00 %
-∟ L -> 100.00 %
-  ∟ LT -> 100.00 %
-    ∟ LTI -> 100.00 %
-    ∟ LTJ -> 100.00 %
-    ∟ LTS -> 100.00 %
-    ∟ LTZ -> 100.00 %
+∟ L -> 87.78 %
+  ∟ LT -> 70.00 %
+    ∟ LTI -> 75.00 %
+    ∟ LTJ -> 50.00 %
+    ∟ LTS -> 50.00 %
+    ∟ LTZ -> 75.00 %
     ∟ LTO -> 100.00 %
-  ∟ LI -> 100.00 %
+  ∟ LI -> 95.83 %
     ∟ LIT -> 100.00 %
-    ∟ LIJ -> 100.00 %
+    ∟ LIJ -> 83.33 %
     ∟ LIS -> 100.00 %
-    ∟ LIZ -> 100.00 %
+    ∟ LIZ -> 95.83 %
     ∟ LIO -> 100.00 %
-  ∟ LJ -> 100.00 %
-    ∟ LJT -> 100.00 %
-    ∟ LJI -> 100.00 %
+  ∟ LJ -> 83.33 %
+    ∟ LJT -> 50.00 %
+    ∟ LJI -> 83.33 %
     ∟ LJS -> 100.00 %
-    ∟ LJZ -> 100.00 %
+    ∟ LJZ -> 83.33 %
     ∟ LJO -> 100.00 %
-  ∟ LS -> 100.00 %
-    ∟ LST -> 100.00 %
+  ∟ LS -> 88.33 %
+    ∟ LST -> 50.00 %
     ∟ LSI -> 100.00 %
     ∟ LSJ -> 100.00 %
-    ∟ LSZ -> 100.00 %
+    ∟ LSZ -> 91.67 %
     ∟ LSO -> 100.00 %
-  ∟ LZ -> 100.00 %
-    ∟ LZT -> 100.00 %
-    ∟ LZI -> 100.00 %
-    ∟ LZJ -> 100.00 %
-    ∟ LZS -> 100.00 %
+  ∟ LZ -> 89.17 %
+    ∟ LZT -> 75.00 %
+    ∟ LZI -> 95.83 %
+    ∟ LZJ -> 83.33 %
+    ∟ LZS -> 91.67 %
     ∟ LZO -> 100.00 %
   ∟ LO -> 100.00 %
     ∟ LOT -> 100.00 %
@@ -143,24 +143,24 @@ Success pattern tree [Head 3 pieces]:
     ∟ LOJ -> 100.00 %
     ∟ LOS -> 100.00 %
     ∟ LOZ -> 100.00 %
-∟ J -> 100.00 %
-  ∟ JT -> 100.00 %
-    ∟ JTI -> 100.00 %
-    ∟ JTL -> 100.00 %
+∟ J -> 85.00 %
+  ∟ JT -> 50.00 %
+    ∟ JTI -> 50.00 %
+    ∟ JTL -> 50.00 %
     ∟ JTS -> 100.00 %
-    ∟ JTZ -> 100.00 %
-    ∟ JTO -> 100.00 %
-  ∟ JI -> 100.00 %
-    ∟ JIT -> 100.00 %
-    ∟ JIL -> 100.00 %
+    ∟ JTZ -> 50.00 %
+    ∟ JTO -> 0.00 %
+  ∟ JI -> 91.67 %
+    ∟ JIT -> 83.33 %
+    ∟ JIL -> 83.33 %
     ∟ JIS -> 100.00 %
-    ∟ JIZ -> 100.00 %
+    ∟ JIZ -> 91.67 %
     ∟ JIO -> 100.00 %
-  ∟ JL -> 100.00 %
-    ∟ JLT -> 100.00 %
-    ∟ JLI -> 100.00 %
+  ∟ JL -> 83.33 %
+    ∟ JLT -> 50.00 %
+    ∟ JLI -> 83.33 %
     ∟ JLS -> 100.00 %
-    ∟ JLZ -> 100.00 %
+    ∟ JLZ -> 83.33 %
     ∟ JLO -> 100.00 %
   ∟ JS -> 100.00 %
     ∟ JST -> 100.00 %
@@ -168,10 +168,10 @@ Success pattern tree [Head 3 pieces]:
     ∟ JSL -> 100.00 %
     ∟ JSZ -> 100.00 %
     ∟ JSO -> 100.00 %
-  ∟ JZ -> 100.00 %
-    ∟ JZT -> 100.00 %
-    ∟ JZI -> 100.00 %
-    ∟ JZL -> 100.00 %
+  ∟ JZ -> 85.00 %
+    ∟ JZT -> 50.00 %
+    ∟ JZI -> 91.67 %
+    ∟ JZL -> 83.33 %
     ∟ JZS -> 100.00 %
     ∟ JZO -> 100.00 %
   ∟ JO -> 100.00 %
@@ -180,24 +180,24 @@ Success pattern tree [Head 3 pieces]:
     ∟ JOL -> 100.00 %
     ∟ JOS -> 100.00 %
     ∟ JOZ -> 100.00 %
-∟ S -> 100.00 %
-  ∟ ST -> 100.00 %
+∟ S -> 89.31 %
+  ∟ ST -> 56.67 %
     ∟ STI -> 100.00 %
-    ∟ STL -> 100.00 %
-    ∟ STJ -> 100.00 %
-    ∟ STZ -> 100.00 %
-    ∟ STO -> 100.00 %
+    ∟ STL -> 50.00 %
+    ∟ STJ -> 45.83 %
+    ∟ STZ -> 62.50 %
+    ∟ STO -> 25.00 %
   ∟ SI -> 100.00 %
     ∟ SIT -> 100.00 %
     ∟ SIL -> 100.00 %
     ∟ SIJ -> 100.00 %
     ∟ SIZ -> 100.00 %
     ∟ SIO -> 100.00 %
-  ∟ SL -> 100.00 %
-    ∟ SLT -> 100.00 %
+  ∟ SL -> 88.33 %
+    ∟ SLT -> 50.00 %
     ∟ SLI -> 100.00 %
     ∟ SLJ -> 100.00 %
-    ∟ SLZ -> 100.00 %
+    ∟ SLZ -> 91.67 %
     ∟ SLO -> 100.00 %
   ∟ SJ -> 100.00 %
     ∟ SJT -> 100.00 %
@@ -205,10 +205,10 @@ Success pattern tree [Head 3 pieces]:
     ∟ SJL -> 100.00 %
     ∟ SJZ -> 100.00 %
     ∟ SJO -> 100.00 %
-  ∟ SZ -> 100.00 %
-    ∟ SZT -> 100.00 %
+  ∟ SZ -> 90.83 %
+    ∟ SZT -> 62.50 %
     ∟ SZI -> 100.00 %
-    ∟ SZL -> 100.00 %
+    ∟ SZL -> 91.67 %
     ∟ SZJ -> 100.00 %
     ∟ SZO -> 100.00 %
   ∟ SO -> 100.00 %
@@ -217,35 +217,35 @@ Success pattern tree [Head 3 pieces]:
     ∟ SOL -> 100.00 %
     ∟ SOJ -> 100.00 %
     ∟ SOZ -> 100.00 %
-∟ Z -> 100.00 %
-  ∟ ZT -> 100.00 %
-    ∟ ZTI -> 100.00 %
-    ∟ ZTL -> 100.00 %
-    ∟ ZTJ -> 100.00 %
-    ∟ ZTS -> 100.00 %
+∟ Z -> 89.72 %
+  ∟ ZT -> 76.67 %
+    ∟ ZTI -> 95.83 %
+    ∟ ZTL -> 75.00 %
+    ∟ ZTJ -> 50.00 %
+    ∟ ZTS -> 62.50 %
     ∟ ZTO -> 100.00 %
-  ∟ ZI -> 100.00 %
-    ∟ ZIT -> 100.00 %
-    ∟ ZIL -> 100.00 %
-    ∟ ZIJ -> 100.00 %
+  ∟ ZI -> 96.67 %
+    ∟ ZIT -> 95.83 %
+    ∟ ZIL -> 95.83 %
+    ∟ ZIJ -> 91.67 %
     ∟ ZIS -> 100.00 %
     ∟ ZIO -> 100.00 %
-  ∟ ZL -> 100.00 %
-    ∟ ZLT -> 100.00 %
-    ∟ ZLI -> 100.00 %
-    ∟ ZLJ -> 100.00 %
-    ∟ ZLS -> 100.00 %
+  ∟ ZL -> 89.17 %
+    ∟ ZLT -> 75.00 %
+    ∟ ZLI -> 95.83 %
+    ∟ ZLJ -> 83.33 %
+    ∟ ZLS -> 91.67 %
     ∟ ZLO -> 100.00 %
-  ∟ ZJ -> 100.00 %
-    ∟ ZJT -> 100.00 %
-    ∟ ZJI -> 100.00 %
-    ∟ ZJL -> 100.00 %
+  ∟ ZJ -> 85.00 %
+    ∟ ZJT -> 50.00 %
+    ∟ ZJI -> 91.67 %
+    ∟ ZJL -> 83.33 %
     ∟ ZJS -> 100.00 %
     ∟ ZJO -> 100.00 %
-  ∟ ZS -> 100.00 %
-    ∟ ZST -> 100.00 %
+  ∟ ZS -> 90.83 %
+    ∟ ZST -> 62.50 %
     ∟ ZSI -> 100.00 %
-    ∟ ZSL -> 100.00 %
+    ∟ ZSL -> 91.67 %
     ∟ ZSJ -> 100.00 %
     ∟ ZSO -> 100.00 %
   ∟ ZO -> 100.00 %
@@ -294,7 +294,106 @@ Success pattern tree [Head 3 pieces]:
 
 -------------------
 Fail pattern (max. 100)
-nothing
+[S, T, L, O, J, I, Z]
+[T, S, L, O, J, I, Z]
+[L, T, S, O, J, I, Z]
+[T, L, S, O, J, I, Z]
+[S, L, T, I, J, O, Z]
+[L, S, T, I, J, O, Z]
+[J, L, T, O, S, Z, I]
+[L, J, T, O, S, Z, I]
+[S, T, L, I, J, O, Z]
+[T, S, L, I, J, O, Z]
+[J, T, L, O, S, Z, I]
+[T, J, L, O, S, Z, I]
+[L, T, J, O, S, Z, I]
+[L, T, S, I, J, O, Z]
+[T, L, J, O, S, Z, I]
+[T, L, S, I, J, O, Z]
+[Z, J, L, T, I, O, S]
+[J, Z, L, T, I, O, S]
+[Z, L, J, T, I, O, S]
+[L, Z, J, T, I, O, S]
+[L, J, Z, T, I, O, S]
+[J, L, Z, T, I, O, S]
+[J, T, O, L, Z, I, S]
+[T, J, O, L, Z, I, S]
+[J, T, O, Z, I, L, S]
+[T, J, O, Z, I, L, S]
+[J, T, O, I, Z, L, S]
+[S, T, O, J, Z, L, I]
+[T, S, O, J, Z, L, I]
+[T, J, O, I, Z, L, S]
+[Z, J, T, O, I, L, S]
+[J, Z, T, O, I, L, S]
+[S, T, O, L, Z, J, I]
+[T, S, O, L, Z, J, I]
+[Z, T, J, O, I, L, S]
+[T, Z, J, O, I, L, S]
+[J, T, O, L, I, Z, S]
+[T, J, O, L, I, Z, S]
+[J, T, Z, O, I, L, S]
+[T, J, Z, O, I, L, S]
+[J, T, O, S, Z, L, I]
+[T, J, O, S, Z, L, I]
+[Z, J, T, L, I, O, S]
+[J, Z, T, L, I, O, S]
+[Z, T, J, L, I, O, S]
+[J, T, O, L, S, I, Z]
+[T, J, O, L, S, I, Z]
+[J, T, O, L, Z, S, I]
+[T, J, O, L, Z, S, I]
+[T, Z, J, L, I, O, S]
+[J, T, O, I, S, L, Z]
+[T, J, O, I, S, L, Z]
+[J, T, Z, L, I, O, S]
+[T, J, Z, L, I, O, S]
+[T, L, I, S, J, O, Z]
+[L, T, I, S, J, O, Z]
+[Z, L, T, J, I, O, S]
+[L, Z, T, J, I, O, S]
+[Z, T, L, J, I, O, S]
+[T, Z, L, J, I, O, S]
+[J, T, O, Z, S, I, L]
+[T, J, O, Z, S, I, L]
+[S, T, J, O, Z, L, I]
+[Z, J, T, O, S, I, L]
+[J, Z, T, O, S, I, L]
+[T, S, J, O, Z, L, I]
+[L, T, Z, J, I, O, S]
+[T, L, Z, J, I, O, S]
+[Z, T, J, O, S, I, L]
+[J, L, T, O, Z, I, S]
+[L, J, T, O, Z, I, S]
+[T, Z, J, O, S, I, L]
+[J, T, L, O, Z, I, S]
+[J, T, Z, O, S, I, L]
+[L, J, I, T, Z, O, S]
+[T, J, L, O, Z, I, S]
+[J, L, I, T, Z, O, S]
+[T, J, Z, O, S, I, L]
+[L, T, J, O, Z, I, S]
+[J, T, O, I, S, Z, L]
+[J, I, L, T, Z, O, S]
+[T, L, J, O, Z, I, S]
+[T, J, O, I, S, Z, L]
+[I, J, L, T, Z, O, S]
+[S, L, T, O, Z, J, I]
+[L, S, T, O, Z, J, I]
+[S, T, J, L, Z, O, I]
+[L, I, J, T, Z, O, S]
+[I, L, J, T, Z, O, S]
+[T, S, J, L, Z, O, I]
+[S, T, L, O, Z, J, I]
+[T, S, L, O, Z, J, I]
+[L, J, T, O, I, Z, S]
+[J, L, T, O, I, Z, S]
+[L, T, S, O, Z, J, I]
+[T, L, S, O, Z, J, I]
+[L, J, T, Z, I, O, S]
+[J, L, T, Z, I, O, S]
+[J, T, L, O, I, Z, S]
+[T, J, L, O, I, Z, S]
 
 # Finalize
 done

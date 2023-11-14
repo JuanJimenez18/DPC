@@ -1,10 +1,6 @@
 const {read_inputs_and_output_holds} = require('./read_inputs_and_output_async.js');
 
-const {convert_to_setup_holds} = require('./convert_setup_place_holds.js');
-
-const {call_sfinder_setup_place_holds} = require('./call_sfinder_setup_place_holds_async.js');
-
-const {read_setup_holds} = require('./read_place_holds_setup.js');
+const {place_holds} = require('./place_holds')
 
 const {call_sfinder_percent} = require('./call_sfinder_percent_async.js');
 
@@ -29,12 +25,9 @@ async function main() {
     let hold_dict;
 
     // Call the asynchronous read inputs and output holds and wait for it to complete
-
     try {
         hold_dict = await read_inputs_and_output_holds(); //return a dictionary containing a key held pieces and value of list of fumens
         console.log('Read inputs and output holds complete');
-
-
     } catch (error) {
         console.error('Error in calling read input and output holds', error);
     }
@@ -52,34 +45,18 @@ async function main() {
     // }
 
     // example fumen v115@ChRpg0BeglDeRpg0Q4AeglBtywh0R4hlBtwwzhQ4Je?AgH is index 13 in the hold Z key list
+    // let fumen = 'v115@ChRpg0BeglDeRpg0Q4AeglBtywh0R4hlBtwwzhQ4Je?AgH';
+
     let hold_pieces = 'z' //Set to be the key value when iterating through the dict
     let fumen = hold_dict[hold_pieces][13];
     let hold_piece = 'z'
 
-
-    // console.log(hold_dict[hold_pieces].indexOf('v115@ChRpg0BeglDeRpg0Q4AeglBtywh0R4hlBtwwzhQ4Je?AgH'))
-
     console.log(fumen);
 
-    let setup_fumen = convert_to_setup_holds(fumen)
+    // Call the function Place holds to generate the list of place holds fumens
 
-    console.log(setup_fumen)
+    let place_holds_fumens = place_holds(fumen, hold_pieces);
 
-    // Call sfinder setup to place the hold pieces
-    try {
-        await call_sfinder_setup_place_holds(setup_fumen, hold_pieces);
-        console.log("Call sfinder to place the holds complete")
-
-    } catch (error) {
-        console.error('Error during process:', error);
-    }
-
-    // Call read_setup_holds to turn the sfinder html into a fumen
-
-    let place_holds_fumens = read_setup_holds();
-
-
-    console.log(place_holds_fumens);
 
     // Call sfinder percent to find the 100% setup fumen fields
 

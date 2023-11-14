@@ -3,14 +3,11 @@ const fs = require('fs').promises;
 
 async function read_percents(fumens) {
     let results = [];
-    let page_indexes = [];
-    let page = 0;
-
-    fumens = fumens.substring(fumens.indexOf('?') + 1);
-    let pages = decoder.decode(fumens);
+    let fumen_indexes = [];
+    let index = 0;
 
     let filePaths = [];
-    for (let i = 0; i < pages.length; i++) {
+    for (let i = 0; i < fumens.length; i++) {
         filePaths.push('output/percents/' + i + '.txt');
     }
 
@@ -23,19 +20,19 @@ async function read_percents(fumens) {
 
             for (let i = 0; i < lines.length; i++) {
                 if (lines[i].trim() === 'success = 100.00% (5040/5040)') {
-                    page_indexes.push(page);
+                    fumen_indexes.push(index);
                 }
             }
 
-            page += 1;
+            index += 1;
 
         } catch (error) {
             console.error(`Error processing file ${filePath}: ${error.message}`);
         }
     }
 
-    for (let i = 0; i < page_indexes.length; i++) {
-        results.push(encoder.encode([pages[page_indexes[i]]]));
+    for (let i = 0; i < fumen_indexes.length; i++) {
+        results.push(fumens[fumen_indexes[i]]);
     }
 
     // console.log(results);

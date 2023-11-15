@@ -1,93 +1,19 @@
 # Setup Field
-[v115@vhHU4IzhB+nBKpB/tBUqBFrBRxB]
+[v115@vhHz7IfnBKpBUmB8sB+tBFqBRwB]
 __________
-_____ZZ___
-______ZZ__
-_____OOJ__
-L____OOJS_
-LZZTTTJJSS
-LLZZTIIIIS
+___OO_____
+___OOS____
+L__ZZSS_ZJ
+LTTTZZSZZJ
+LLTIIIIZJJ
 
-[v115@vhHU4IzhBfoB2pBUrBFsBSyBxuB]
+[v115@vhHU8IfmBKpBzmB8sB+tBFqBRwB]
 __________
-_____ZZ___
-______ZZ__
-_____OOS__
-J____OOSS_
-JJJZZTTTSL
-IIIIZZTLLL
-
-[v115@vhHU4I+mBTiBKpB/tBFqB0sBRwB]
-__________
-_____ZZ___
-______ZZ__
-_____JOO__
-L____JOOS_
-LTTTJJZZSS
-LLTIIIIZZS
-
-[v115@vhHU4IfnB0iB2pBFrBSxBTtBxuB]
-__________
-_____ZZ___
-______ZZ__
-_____SZZ__
-J____SSZZ_
-JJJTTTSLOO
-IIIITLLLOO
-
-[v115@vhHU4I+mB0iBKpB/sBFqBTtBRwB]
-__________
-_____ZZ___
-______ZZ__
-_____JZZ__
-L____JSZZ_
-LTTTJJSSOO
-LLTIIIISOO
-
-[v115@vhHU4IqmBTiB2pB/tBUrB1xBxuB]
-__________
-_____ZZ___
-______ZZ__
-_____LOO__
-J____LOOS_
-JJJZZLLTSS
-IIIIZZTTTS
-
-[v115@vhHU4ITiBKpB/tBUqBRrB1xB+rB]
-__________
-_____ZZ___
-______ZZ__
-_____JOO__
-L____JOOS_
-LZZIIIITSS
-LLZZJJTTTS
-
-[v115@vhHU4IFiB2pBfsBznBUrBSyBxuB]
-__________
-_____ZZ___
-______ZZ__
-_____TTT__
-J____STOO_
-JJJZZSSOOL
-IIIIZZSLLL
-
-[v115@vhHU4ITiB2pB/tBFrB0sBqrBxuB]
-__________
-_____ZZ___
-______ZZ__
-_____LOO__
-J____LOOS_
-JJJTTTZZSS
-IIIITLLZZS
-
-[v115@vhHU4ICiB2pBVsBUrBTtB3sBxuB]
-__________
-_____ZZ___
-______ZZ__
-_____LLL__
-J____LTSS_
-JJJZZTTTOO
-IIIIZZSSOO
+___ZZ_____
+___SZZ____
+L__SSOO_ZJ
+LTTTSOOZZJ
+LLTIIIIZJJ
 
 Using hold: use
 Drop: rotation180
@@ -104,20 +30,12 @@ Searching pattern size ( no dup. ) = 5040
   -> Stopwatch start
      ... calculating
      ... done
-  -> Stopwatch stop : avg.time = 483 ms [1 counts]
+  -> Stopwatch stop : avg.time = 216 ms [1 counts]
 
 # Output
 success:
-7.22 % [364/5040]: http://fumen.zui.jp/?v115@vhHU4IzhB+nBKpB/tBUqBFrBRxB
-8.10 % [408/5040]: http://fumen.zui.jp/?v115@vhHU4IzhBfoB2pBUrBFsBSyBxuB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4I+mBTiBKpB/tBFqB0sBRwB
-11.90 % [600/5040]: http://fumen.zui.jp/?v115@vhHU4IfnB0iB2pBFrBSxBTtBxuB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4I+mB0iBKpB/sBFqBTtBRwB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4IqmBTiB2pB/tBUrB1xBxuB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4ITiBKpB/tBUqBRrB1xB+rB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4IFiB2pBfsBznBUrBSyBxuB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4ITiB2pB/tBFrB0sBqrBxuB
-0.00 % [0/5040]: http://fumen.zui.jp/?v115@vhHU4ICiB2pBVsBUrBTtB3sBxuB
+16.67 % [840/5040]: http://fumen.zui.jp/?v115@vhHz7IfnBKpBUmB8sB+tBFqBRwB
+10.56 % [532/5040]: http://fumen.zui.jp/?v115@vhHU8IfmBKpBzmB8sB+tBFqBRwB
 >>>
-OR  = 20.73 % [1045/5040]
-AND = 0.00 % [0/5040]
+OR  = 17.78 % [896/5040]
+AND = 9.44 % [476/5040]

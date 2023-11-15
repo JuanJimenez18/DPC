@@ -1,13 +1,12 @@
 # Setup Field
-_____**___
-______**__
-_____***__
-*____****_
+___**_____
+___***____
+*__****_**
 **********
 **********
 
 # Initialize / User-defined
-Max height: 6
+Max height: 5
 Drop: softdrop
 Operations: 
 Exclude: none
@@ -24,9 +23,9 @@ Need Pieces = 8
 # Search
   -> Stopwatch start
      Search sub solutions for '--n-pieces'
-     Found solutions = 10
-     Found sub solutions = 10
-  -> Stopwatch stop : avg.time = 284 ms [1 counts]
+     Found solutions = 2
+     Found sub solutions = 2
+  -> Stopwatch stop : avg.time = 342 ms [1 counts]
 
 # Output file
 

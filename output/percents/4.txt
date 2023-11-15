@@ -1,8 +1,8 @@
 # Setup Field
-__________
 ___X______
-__XX_XXX__
-X_X__XXXX_
+__XX______
+__XX______
+X__XXXXXX_
 XXXXXXXXXX
 XXXXXXXXXX
 
@@ -25,7 +25,7 @@ Searching pattern size ( no dup. ) = 5040
 
 # Search
   -> Stopwatch start
-  -> Stopwatch stop : avg.time = 2811 ms [1 counts]
+  -> Stopwatch stop : avg.time = 111 ms [1 counts]
 
 # Output
 success = 0.00% (0/5040)

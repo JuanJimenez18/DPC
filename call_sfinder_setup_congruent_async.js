@@ -5,7 +5,7 @@ async function call_sfinder_setup_congruent(fumen, hold_piece) {
         let pattern = hold_piece + "*p7";
         let command = `java -jar sfinder.jar setup --tetfu ${fumen} --patterns ${pattern} --fill i --output-base output/setups/congruent_setup.html`;
 
-        console.log(command);
+        // console.log(command);
         exec(command, (error, stdout, stderr) => {
             if (error) {
                 reject(new Error(`Error: ${error.message}`));

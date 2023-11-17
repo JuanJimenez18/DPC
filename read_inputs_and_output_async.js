@@ -2,10 +2,10 @@ const { decoder, encoder } = require('tetris-fumen');
 const fs = require('fs').promises;  // Using fs.promises for Promise-based file operations
 const {unglue} = require('./ungluer.js');
 
-const read_inputs_and_output_holds = async () => {
+const read_inputs_and_output_holds = async (hold_piece) => {
 
     const filePath = 'input/inputFumens.txt';
-    let pieces = 'zstlijzo';
+    let pieces = hold_piece + 'stlijzo';
     let fumens = [];
     let dict = {};
 

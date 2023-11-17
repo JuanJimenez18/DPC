@@ -1,0 +1,1509 @@
+Hold piece: o
+Read inputs and output holds complete
+Hold Pieces: oo
+Progress: 0.00% (0/4)
+Fumen: v115@BhAtHeBtDeg0ilAtywR4g0glzhwwR4h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@pgRpHeRpHeRpBeAtEeRpAeBtDeg0ilAtywR4g0glzh?wwR4h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeAtRpCeRpAeBtRpBeg0ilAtywR4g0glzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeilCeRpAeAtglR4Beg0RpBtR4ywg0RpAtzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeR4AtCeRpAeR4BtBeg0RpilAtywg0Rpglzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@qgRpHeRpHeRpAeAtFeRpBtDeg0ilAtywR4g0glzhww?R4h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeAtRpDeRpBtRpBeg0ilAtywR4g0glzhwwR4h0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeR4AtDeRpR4BtBeg0RpilAtywg0Rpglzhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeilDeRpAtglR4Beg0RpBtR4ywg0RpAtzhwwh0?JeAgH
+Progress: 25.00% (1/4)
+Fumen: v115@ChQ4DeglDeR4CeglBtywQ4i0hlBtwwzhg0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhRpQ4AeRpAeglBeRpR4RpAeglBtywQ4i0hlBtwwzh?g0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhQ4BtAeRpAeglBeR4BtRpAeglywQ4i0Rphlwwzhg0?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@Ahi0AeRpAeglBeBtg0Q4RpAeglywBtR4RphlwwzhQ4?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhRpQ4BeRpglBeRpR4AeRpglBtywQ4i0hlBtwwzhg0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhQ4BtBeRpglBeR4BtAeRpglywQ4i0Rphlwwzhg0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@Ahi0BeRpglBeBtg0Q4AeRpglywBtR4RphlwwzhQ4Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@wgRpHeRpFeQ4AeRpAeglDeR4RpAeglBtywQ4i0hlBt?wwzhg0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@xgRpHeRpEeQ4BeRpglDeR4AeRpglBtywQ4i0hlBtww?zhg0JeAgH
+Progress: 50.00% (2/4)
+Fumen: v115@EhQ4Beg0FeR4Aei0BtywQ4glzhBtwwilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gTpBeQ4Beg0TpBeR4Aei0BtywQ4glzhBtwwilJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeRpQ4Beg0RpBeRpR4Aei0BtywQ4glzhBtwwil?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeRpg0BeglRpBeRpg0Q4AeglBtywh0R4hlBtww?zhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeQ4BtBeg0RpBeR4BtAei0ywQ4glRpzhwwilRp?JeAgH
+Progress: 75.00% (3/4)
+Fumen: v115@/gAtHeBtFeglg0AtywR4ili0wwR4zhJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpBeRpBeBtRpBeRpglg0AtywR4ili0wwR4zhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gglRpBeRpBeAtglRpBeRpg0BthlywR4g0AtzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtBeRpBeR4BtBeRpglRpg0AtywilRpi0wwzhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtBeTpBeBtBeTpglg0AtywR4ili0wwR4zhJeAgH
+Hold Pieces: os
+Progress: 0.00% (0/4)
+Fumen: v115@DhAtHeBtBeg0RpilAtywg0Rpglzhwwh0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeAtRpCeRpAeBtRpBeg0ilAtywR4g0glzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeilCeRpAeAtglR4Beg0RpBtR4ywg0RpAtzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeR4AtCeRpAeR4BtBeg0RpilAtywg0Rpglzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeAtRpDeRpBtRpBeg0ilAtywR4g0glzhwwR4h0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeR4AtDeRpR4BtBeg0RpilAtywg0Rpglzhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeilDeRpAtglR4Beg0RpBtR4ywg0RpAtzhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@xgRpHeRpFeAtAeR4EeBtR4g0RpilAtywg0Rpglzhww?h0JeAgH
+Progress: 25.00% (1/4)
+Fumen: v115@BhAtHeBtBeg0BeilAtywg0Rpglzhwwh0RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpCehlAeBtRpBeRpglg0AtywR4Rpgli0wwR4zh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gilCeRpAeAtglR4Beg0RpBtR4ywg0RpAtzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCeRpAeR4BtBeg0RpilAtywg0Rpglzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCehlAeR4BtBeRpglRpg0AtywRpglRpi0wwzh?JeAgH
+Progress: 50.00% (2/4)
+Fumen: v115@BhAtHeBtDeglRpg0AtywilRpi0wwzhJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@BhAtRpAeR4CeBtRpR4glRpg0AtywilRpi0wwzhJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@BhglRpAeR4CeAtglRpR4g0RpBthlywg0RpAtzhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpBeRpBeBtRpBeRpglg0AtywR4ili0wwR4zhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gglRpBeRpBeAtglRpBeRpg0BthlywR4g0AtzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtBeRpBeR4BtBeRpglRpg0AtywilRpi0wwzhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@xgRpHeRpDeAtCeR4CeBtBeR4glRpg0AtywilRpi0ww?zhJeAgH
+Progress: 75.00% (3/4)
+Fumen: v115@/gAtHeBtDeglBeg0AtywilRpi0wwzhRpJeAgH
+No 100% setups found
+Hold Pieces: oz
+Progress: 0.00% (0/4)
+Fumen: v115@ChQ4FeglBeR4CeRpglywQ4i0Rphlwwzhg0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeRpQ4Beg0RpBeRpR4Aeg0RpBtywQ4glzhBtww?ilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCei0BeRpglBeBtg0Q4AeRpglywBtR4Rphlwwzh?Q4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCeQ4BtBeRpglBeR4BtAeRpglywQ4i0Rphlwwzh?g0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeQ4BtBeg0RpBeR4BtAeg0RpywQ4glRpzhwwil?RpJeAgH
+Progress: 25.00% (1/4)
+Fumen: v115@AhQ4FeglBeR4EeglywQ4i0Rphlwwzhg0RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhRpQ4AeRpAeglBeRpR4RpAeglBtywQ4i0hlBtwwzh?g0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhQ4BtAeRpAeglBeR4BtRpAeglywQ4i0Rphlwwzhg0?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@Ahi0AeRpAeglBeBtg0Q4RpAeglywBtR4RphlwwzhQ4?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhRpQ4BeRpglBeRpR4AeRpglBtywQ4i0hlBtwwzhg0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhQ4BtBeRpglBeR4BtAeRpglywQ4i0Rphlwwzhg0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@Ahi0BeRpglBeBtg0Q4AeRpglywBtR4RphlwwzhQ4Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@pgRpHeRpHeBtAeQ4FeglBtR4EeglywQ4i0Rphlwwzh?g0RpJeAgH
+Progress: 50.00% (2/4)
+Fumen: v115@EhQ4Deg0DeR4AeRpi0ywQ4glRpzhwwilJeAgH
+No 100% setups found
+Progress: 75.00% (3/4)
+Fumen: v115@ChQ4Deg0DeR4Cei0ywQ4glRpzhwwilRpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeRpQ4Beg0RpBeRpR4Aei0BtywQ4glzhBtwwil?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeRpg0BeglRpBeRpg0Q4AeglBtywh0R4hlBtww?zhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeQ4BtBeg0RpBeR4BtAei0ywQ4glRpzhwwilRp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gBtAeRpQ4Deg0BtRpR4Cei0ywQ4glRpzhwwilRpJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gBtAeRpg0DeglBtRpg0Q4Ceglywh0R4RphlwwzhQ4?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@pgRpHeRpHeBtCeQ4Deg0BtBeR4Cei0ywQ4glRpzhww?ilRpJeAgH
+Hold Pieces: jo
+Progress: 0.00% (0/2)
+Fumen: v115@JhglBeBtAeQ4AeRpglywBtR4RphlwwzhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gh0EeRpAeg0FeRpglg0AeBtAeQ4AeRpglywBtR4Rp?hlwwzhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeRpQ4Beg0RpBeRpR4Aeg0RpBtywQ4glzhBtww?ilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCei0BeRpglBeBtg0Q4AeRpglywBtR4Rphlwwzh?Q4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCeQ4BtBeRpglBeR4BtAeRpglywQ4i0Rphlwwzh?g0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeQ4BtBeg0RpBeR4BtAeg0RpywQ4glRpzhwwil?RpJeAgH
+Progress: 50.00% (1/2)
+Fumen: v115@HhglBeBtAeQ4CeglywBtR4RphlwwzhQ4RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gh0Heg0EeRpAeglg0AeBtAeQ4RpAeglywBtR4Rphl?wwzhQ4RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gh0Heg0FeRpglg0AeBtAeQ4AeRpglywBtR4Rphlww?zhQ4RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@zgRpg0GeRpg0Geglh0BtAeQ4CeglywBtR4Rphlwwzh?Q4RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhRpQ4AeRpAeglBeRpR4RpAeglBtywQ4i0hlBtwwzh?g0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhQ4BtAeRpAeglBeR4BtRpAeglywQ4i0Rphlwwzhg0?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@Ahi0AeRpAeglBeBtg0Q4RpAeglywBtR4RphlwwzhQ4?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhRpQ4BeRpglBeRpR4AeRpglBtywQ4i0hlBtwwzhg0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhQ4BtBeRpglBeR4BtAeRpglywQ4i0Rphlwwzhg0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@Ahi0BeRpglBeBtg0Q4AeRpglywBtR4RphlwwzhQ4Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@7gRpGeg0RpglBeBtAeQ4i0glywBtR4RphlwwzhQ4Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gRpCeg0DeRpCeg0AeglBeBtAeQ4h0AeglywBtR4Rp?hlwwzhQ4RpJeAgH
+Hold Pieces: lo
+Progress: 0.00% (0/2)
+Fumen: v115@KhAtAeR4Beg0RpBtR4ywg0RpAtzhwwh0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@zgRpHeRpglGeilAtAeR4Beg0RpBtR4ywg0RpAtzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gglCeRpDeglCeRpDehlAtAeR4Beg0RpBtR4ywg0Rp?Atzhwwh0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeAtRpCeRpAeBtRpBeg0ilAtywR4g0glzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeilCeRpAeAtglR4Beg0RpBtR4ywg0RpAtzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpBeR4AtCeRpAeR4BtBeg0RpilAtywg0Rpglzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeAtRpDeRpBtRpBeg0ilAtywR4g0glzhwwR4h0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeR4AtDeRpR4BtBeg0RpilAtywg0Rpglzhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpAeilDeRpAtglR4Beg0RpBtR4ywg0RpAtzhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6gglRpGeglRpCeAtAeR4hlg0RpBtR4ywg0RpAtzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6ghlAeRpFeglAeRpAeAtAeR4Aeglg0RpBtR4ywg0Rp?Atzhwwh0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6ghlBeRpEeglBeRpAtAeR4Aeglg0RpBtR4ywg0RpAt?zhwwh0JeAgH
+Progress: 50.00% (1/2)
+Fumen: v115@IhAtAeR4Beg0BeBtR4ywg0RpAtzhwwh0RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpCehlAeBtRpBeRpglg0AtywR4Rpgli0wwR4zh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gilCeRpAeAtglR4Beg0RpBtR4ywg0RpAtzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCeRpAeR4BtBeg0RpilAtywg0Rpglzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCehlAeR4BtBeRpglRpg0AtywRpglRpi0wwzh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@4ghlIeglAeRpAeAtAeR4Aeglg0RpBtR4ywg0RpAtzh?wwh0RpJeAgH
+Hold Pieces: o
+Progress: 0.00% (0/256)
+Fumen: v115@/gAtHeBtBeRpQ4hlg0AtywRpR4gli0wwzhQ4glJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpFeBtTpQ4hlg0AtywRpR4gli0wwzhQ4glJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@6gRpCeAtDeRpBeBtBeRpQ4hlg0AtywRpR4gli0wwzh?Q4glJeAgH
+Progress: 0.39% (1/256)
+Fumen: v115@/gQ4BeRpEeR4AeRpBeg0ilQ4Btywg0glzhBtwwh0Je?AgH
+No 100% setups found
+Progress: 0.78% (2/256)
+Fumen: v115@BhAtFehlBtR4Beg0RpglAtR4ywg0Rpglzhwwh0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@1gRpHeRpAtFehlBtR4Beg0RpglAtR4ywg0Rpglzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@4gRpGeAtRpDehlBtR4Beg0RpglAtR4ywg0Rpglzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@4gR4GeR4AtDehlRpBtBeg0RpglRpAtywg0Rpglzhww?h0JeAgH
+Progress: 1.17% (3/256)
+Fumen: v115@8gAtDeQ4CeBtDeR4BeAtg0RpilQ4ywg0Rpglzhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@8gAtDeQ4AeRpBtDeR4RpAtg0RpilQ4ywg0Rpglzhww?h0JeAgH
+Progress: 1.56% (4/256)
+Fumen: v115@+gAtHeBtR4Beg0AehlAtR4ywg0Rpglzhwwh0RpglJe?AgH
+No 100% setups found
+Progress: 1.95% (5/256)
+Fumen: v115@6gAtDeQ4CeBtDeR4BeAtg0BeilQ4ywg0Rpglzhwwh0?RpJeAgH
+No 100% setups found
+Progress: 2.34% (6/256)
+Fumen: v115@DhQ4CeBtAeglBeR4Rpg0BtglywQ4Rpi0hlwwzhJeAg?H
+No 100% setups found
+Progress: 2.73% (7/256)
+Fumen: v115@FhQ4BeRpglBeBtR4g0RpglywBtQ4i0hlwwzhJeAgH
+No 100% setups found
+Progress: 3.13% (8/256)
+Fumen: v115@ChQ4DeglBeBtR4AeRpglywBtQ4g0Rphlwwzhi0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@2gRpHeRpQ4DeglBeBtR4AeRpglywBtQ4g0Rphlwwzh?i0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gBtHeQ4BtDeglBeR4RpAeRpglywQ4Rpg0Rphlwwzh?i0JeAgH
+Progress: 3.52% (9/256)
+Fumen: v115@AhQ4FeglBeR4RpBtAeglywQ4Rpg0Bthlwwzhi0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpQ4FeglRpR4RpBtAeglywQ4Rpg0Bthlwwzhi0Je?AgH
+Progress: 3.91% (10/256)
+Fumen: v115@AhRpBeAtBeglBeRpAeBtBeglywR4Ati0hlwwR4zhg0?JeAgH
+No 100% setups found
+Progress: 4.30% (11/256)
+Fumen: v115@FhQ4Aeh0AeglBeBtR4g0RpglywBtQ4g0RphlwwzhJe?AgH
+No 100% setups found
+Progress: 4.69% (12/256)
+Fumen: v115@1gQ4IeR4CeAtDeglQ4BeBtBeRpglywAti0Rphlwwzh?g0JeAgH
+No 100% setups found
+Progress: 5.08% (13/256)
+Fumen: v115@ChQ4DeglBeBtR4h0AeglywBtQ4g0Rphlwwzhg0RpJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gRpHeRpQ4DeglBeBtR4h0AeglywBtQ4g0Rphlwwzh?g0RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gBtHeQ4BtDeglBeR4Rph0AeglywQ4Rpg0Rphlwwzh?g0RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@5gRpGeQ4RpBeglBeBtR4h0AeglywBtQ4g0Rphlwwzh?g0RpJeAgH
+Progress: 5.47% (14/256)
+Fumen: v115@zgQ4IeR4CeAtDeglQ4BeBtDeglywAti0Rphlwwzhg0?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@zgQ4IeR4RpAeAtDeglQ4RpBtDeglywAti0Rphlwwzh?g0RpJeAgH
+Progress: 5.86% (15/256)
+Fumen: v115@DhAtCeglQ4AeRpBtBeg0glR4RpAtywg0hlQ4zhwwh0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@DhAtRpAeglQ4AeRpBtRpg0glR4RpAtywg0hlQ4zhww?h0JeAgH
+Progress: 6.25% (16/256)
+Fumen: v115@AhAtFeRpBtBeg0glQ4AeRpAtywg0glR4zhwwh0hlQ4?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gRpHeRpAtFeRpBtBei0AeRpAtywR4g0glzhwwR4il?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gh0Heg0RpFeglg0RpBeRpQ4AeglBtywRpR4hlBtww?zhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gRpHeRpAtFeRpBtBeg0glQ4AeRpAtywg0glR4zhww?h0hlQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhAtRpDeRpBtRpi0AeRpAtywR4g0glzhwwR4ilJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@AhAtRpDeRpBtRpg0glQ4AeRpAtywg0glR4zhwwh0hl?Q4JeAgH
+Progress: 6.64% (17/256)
+Fumen: v115@DhQ4DeAtg0glBeR4RpBtg0glywQ4RpAth0hlwwzhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@BhRpQ4DeilRpR4Rpg0glBtywQ4Rpi0BtwwzhJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@BhRpQ4DeAtg0glRpR4RpBtg0glywQ4RpAth0hlwwzh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6gRpGeQ4RpBeilBeR4Rpg0glBtywQ4Rpi0BtwwzhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@6ghlGeRpglBeAtRpBeRpglg0BtRpywR4g0AtzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6gRpGeQ4RpBeAtg0glBeR4RpBtg0glywQ4RpAth0hl?wwzhJeAgH
+Progress: 7.03% (18/256)
+Fumen: v115@AhQ4FeglBeR4RpAeAtg0glywQ4RpBtg0hlwwzhAth0?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpQ4FeglRpR4RpAeAtg0glywQ4RpBtg0hlwwzhAt?h0JeAgH
+Progress: 7.42% (19/256)
+Fumen: v115@ChRpg0BeglDeRpg0Q4AeglBtywh0R4hlBtwwzhQ4Je?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeRpQ4Beg0RpBeRpR4Aei0BtywQ4glzhBtwwil?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeRpg0BeglRpBeRpg0Q4AeglBtywh0R4hlBtww?zhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@+gRpBeQ4BtBeg0RpBeR4BtAei0ywQ4glRpzhwwilRp?JeAgH
+Progress: 7.81% (20/256)
+Fumen: v115@/gRpCeg0BeglAeRpCeg0Q4AeglBtywh0R4hlBtwwzh?Q4JeAgH
+No 100% setups found
+Progress: 8.20% (21/256)
+Fumen: v115@+gg0Hegli0BeRpQ4AeglBtywRpR4hlBtwwzhQ4JeAg?H
+No 100% setups found
+Progress: 8.59% (22/256)
+Fumen: v115@2gg0Ieg0FeglAeh0BeRpQ4AeglBtywRpR4hlBtwwzh?Q4JeAgH
+No 100% setups found
+Progress: 8.98% (23/256)
+Fumen: v115@AhRpg0DeglBeRpg0BeQ4Aeglywh0BtR4hlwwzhBtQ4?JeAgH
+No 100% setups found
+Progress: 9.38% (24/256)
+Fumen: v115@EhQ4Beh0AtRpBeR4Aeg0BtRpywQ4glg0AtzhwwilJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gRpHeRpDeQ4Beh0AtRpBeR4Aeg0BtRpywQ4glg0At?zhwwilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@ChRpQ4Beh0AtTpR4Aeg0BtRpywQ4glg0AtzhwwilJe?AgH
+Progress: 9.77% (25/256)
+Fumen: v115@+gAtHeBtR4Beg0RpAeAtR4ywg0Rpglzhwwh0ilJeAg?H
+No 100% setups found
+Progress: 10.16% (26/256)
+Fumen: v115@AhAtFeRpBtBeg0AeR4RpAtywg0R4glzhwwh0ilJeAg?H
+No 100% setups found
+Progress: 10.55% (27/256)
+Fumen: v115@DhAtDeR4RpBtBeg0R4glRpAtywg0ilzhwwh0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@DhAtRpBeR4RpBtRpg0R4glRpAtywg0ilzhwwh0JeAg?H
+Progress: 10.94% (28/256)
+Fumen: v115@BhAtEeRpAeBtR4Beg0RpglAtR4ywg0ilzhwwh0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@4gRpGeAtRpCeRpAeBtR4Beg0RpglAtR4ywg0ilzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@4gR4GeR4AtCeRpAeRpBtBeg0RpglRpAtywg0ilzhww?h0JeAgH
+Progress: 11.33% (29/256)
+Fumen: v115@ChRpBeAtg0DeRpAeBti0ywR4AtglzhwwR4ilJeAgH
+No 100% setups found
+Progress: 11.72% (30/256)
+Fumen: v115@/gRpEeAtg0AeRpDeBti0ywR4AtglzhwwR4ilJeAgH
+No 100% setups found
+Progress: 12.11% (31/256)
+Fumen: v115@AhAtFeRpBtBei0AeRpAtywR4g0glzhwwR4ilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gRpHeRpAtFeRpBtBei0AeRpAtywR4g0glzhwwR4il?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gh0Heg0RpFeglg0RpBeRpQ4AeglBtywRpR4hlBtww?zhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gRpHeRpAtFeRpBtBeg0glQ4AeRpAtywg0glR4zhww?h0hlQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhAtRpDeRpBtRpi0AeRpAtywR4g0glzhwwR4ilJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@AhAtRpDeRpBtRpg0glQ4AeRpAtywg0glR4zhwwh0hl?Q4JeAgH
+Progress: 12.50% (32/256)
+Fumen: v115@9gh0EeQ4Beg0RpDeR4Aeg0RpBtywQ4glzhBtwwilJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@pgRpHeRpHeh0EeQ4Beg0RpDeR4Aeg0RpBtywQ4glzh?BtwwilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeRpQ4Beg0RpBeRpR4Aeg0RpBtywQ4glzhBtww?ilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCei0BeRpglBeBtg0Q4AeRpglywBtR4Rphlwwzh?Q4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCeQ4BtBeRpglBeR4BtAeRpglywQ4i0Rphlwwzh?g0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeQ4BtBeg0RpBeR4BtAeg0RpywQ4glRpzhwwil?RpJeAgH
+Progress: 12.89% (33/256)
+Fumen: v115@GhAti0AeR4BeBtRpg0R4ywAtglRpzhwwilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@xgRpHeRpIeAti0AeR4BeBtRpg0R4ywAtglRpzhwwil?JeAgH
+Progress: 13.28% (34/256)
+Fumen: v115@AhAtg0BeQ4DeBtg0BeR4AeRpAth0ywQ4glRpzhwwil?JeAgH
+No 100% setups found
+Progress: 13.67% (35/256)
+Fumen: v115@+gAtg0BeQ4DeBtg0BeR4CeAth0ywQ4glRpzhwwilRp?JeAgH
+No 100% setups found
+Progress: 14.06% (36/256)
+Fumen: v115@/gAtEehlAeBtDeRpglg0AtywR4Rpgli0wwR4zhJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpCehlAeBtRpBeRpglg0AtywR4Rpgli0wwR4zh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gilCeRpAeAtglR4Beg0RpBtR4ywg0RpAtzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCeRpAeR4BtBeg0RpilAtywg0Rpglzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCehlAeR4BtBeRpglRpg0AtywRpglRpi0wwzh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@xgRpHeRpBeAtEehlAeBtDeRpglg0AtywR4Rpgli0ww?R4zhJeAgH
+Progress: 14.45% (37/256)
+Fumen: v115@DhQ4DeilBeR4Rpg0glBtywQ4Rpi0BtwwzhJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@BhRpQ4DeilRpR4Rpg0glBtywQ4Rpi0BtwwzhJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@BhRpQ4DeAtg0glRpR4RpBtg0glywQ4RpAth0hlwwzh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6gRpGeQ4RpBeilBeR4Rpg0glBtywQ4Rpi0BtwwzhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@6ghlGeRpglBeAtRpBeRpglg0BtRpywR4g0AtzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6gRpGeQ4RpBeAtg0glBeR4RpBtg0glywQ4RpAth0hl?wwzhJeAgH
+Progress: 14.84% (38/256)
+Fumen: v115@9gQ4EeRpBeR4DeRpAeglg0Q4Btywili0BtwwzhJeAg?H
+No 100% setups found
+Progress: 15.23% (39/256)
+Fumen: v115@9gQ4BeRpEeR4AeRpDeglg0Q4Btywili0BtwwzhJeAg?H
+No 100% setups found
+Progress: 15.63% (40/256)
+Fumen: v115@BhAtBeglQ4DeBtBeglR4Rpg0AtywhlQ4Rpi0wwzhJe?AgH
+No 100% setups found
+Progress: 16.02% (41/256)
+Fumen: v115@9gQ4IeR4BeBtAeilg0Q4ywBtglRpi0wwzhRpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@pgRpHeRpHeQ4IeR4BeBtAeilg0Q4ywBtglRpi0wwzh?RpJeAgH
+Progress: 16.41% (42/256)
+Fumen: v115@/gAtBeglQ4DeBtBeglR4Beg0AtywhlQ4Rpi0wwzhRp?JeAgH
+No 100% setups found
+Progress: 16.80% (43/256)
+Fumen: v115@BhglRpDeAtBeglRpBeg0BtR4hlywg0AtR4zhwwh0Je?AgH
+No 100% setups found
+Progress: 17.19% (44/256)
+Fumen: v115@/gglCeRpCeAtglCeRpAeg0BthlywR4g0AtzhwwR4h0?JeAgH
+No 100% setups found
+Progress: 17.58% (45/256)
+Fumen: v115@/gglRpFeAtglRpDeg0BthlywR4g0AtzhwwR4h0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpBeRpBeBtRpBeRpglg0AtywR4ili0wwR4zhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gglRpBeRpBeAtglRpBeRpg0BthlywR4g0AtzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtBeRpBeR4BtBeRpglRpg0AtywilRpi0wwzhJe?AgH
+Progress: 17.97% (46/256)
+Fumen: v115@5gglIeglDeAtRpBehlAeg0BtRpywR4g0AtzhwwR4h0?JeAgH
+No 100% setups found
+Progress: 18.36% (47/256)
+Fumen: v115@FhglBeAtRpBeilg0BtRpywR4g0AtzhwwR4h0JeAgH
+No 100% setups found
+Progress: 18.75% (48/256)
+Fumen: v115@ChRpBewhglDeRpAeg0whglBtywR4g0whhlBtwwR4h0?whJeAgH
+No 100% setups found
+Progress: 19.14% (49/256)
+Fumen: v115@/gRpEewhglAeRpDeg0whglBtywR4g0whhlBtwwR4h0?whJeAgH
+No 100% setups found
+Progress: 19.53% (50/256)
+Fumen: v115@9gwhEeRpBewhglDeRpAeg0whglBtywR4g0whhlBtww?R4h0JeAgH
+No 100% setups found
+Progress: 19.92% (51/256)
+Fumen: v115@9gwhBeRpEewhglAeRpDeg0whglBtywR4g0whhlBtww?R4h0JeAgH
+No 100% setups found
+Progress: 20.31% (52/256)
+Fumen: v115@+gg0CeR4Cegli0R4ywAtglzhRpwwBthlCeRpAeAtKe?AgH
+No 100% setups found
+Progress: 20.70% (53/256)
+Fumen: v115@7gQ4Deg0DeR4ili0ywQ4glBtzhwwRpBeBtDeRpJeAg?H
+No 100% setups found
+Progress: 21.09% (54/256)
+Fumen: v115@7gQ4Beg0FeR4gli0BtywQ4glzhBtwwRphlFeRpJeAg?H
+No 100% setups found
+Progress: 21.48% (55/256)
+Fumen: v115@0gAtHeBtFeglAeAtywR4ilg0RpwwR4zhg0RpFeh0Je?AgH
+No 100% setups found
+Progress: 21.88% (56/256)
+Fumen: v115@AhBtCeglAeQ4ywBtilg0R4wwRpzhg0AeQ4AeRpCeh0?JeAgH
+No 100% setups found
+Progress: 22.27% (57/256)
+Fumen: v115@0gAtHeBtDeglCeAtywili0RpwwzhR4g0RpDeR4LeAg?H
+No 100% setups found
+Progress: 22.66% (58/256)
+Fumen: v115@9gwhDeR4CewhilR4ywAtwhgli0RpwwBtwhCeg0RpAe?AtKeAgH
+No 100% setups found
+Progress: 23.05% (59/256)
+Fumen: v115@7gQ4AewhGeR4whilBtywQ4whgli0BtwwRpwhCeg0Ce?RpJeAgH
+No 100% setups found
+Progress: 23.44% (60/256)
+Fumen: v115@6gQ4IeR4whilBtywQ4whgli0BtwwRpwhCeg0CeRpwh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@xgRpGeQ4RpGeR4whilBtywQ4whgli0BtwwRpwhCeg0?CeRpwhJeAgH
+Progress: 23.83% (61/256)
+Fumen: v115@BhR4CewhilR4ywAtwhgli0RpwwBtwhCeg0RpAeAtAe?whJeAgH
+No 100% setups found
+Progress: 24.22% (62/256)
+Fumen: v115@ChhlBewhQ4BtywglRpwhR4Btwwg0glRpwhAeQ4Cei0?AewhJeAgH
+No 100% setups found
+Progress: 24.61% (63/256)
+Fumen: v115@9gwhBeh0EewhRpg0ywR4AtwhRpg0glwwR4BtwhAeil?CeAtKeAgH
+No 100% setups found
+Progress: 25.00% (64/256)
+Fumen: v115@9gwhEehlBewhQ4BtywglRpwhR4Btwwg0glRpwhAeQ4?Cei0KeAgH
+No 100% setups found
+Progress: 25.39% (65/256)
+Fumen: v115@/gh0EewhRpg0ywR4AtwhRpg0glwwR4BtwhAeilCeAt?AewhJeAgH
+No 100% setups found
+Progress: 25.78% (66/256)
+Fumen: v115@9gwhCeBtDewhQ4ywBti0whR4wwRpilg0whAeQ4AeRp?glMeAgH
+No 100% setups found
+Progress: 26.17% (67/256)
+Fumen: v115@1gAtGewhBtGewhAtywR4i0whRpwwR4ilg0whRpCegl?MeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@pgRpHeRpAtGewhBtGewhAtywR4i0whRpwwR4ilg0wh?RpCeglMeAgH
+Progress: 26.56% (68/256)
+Fumen: v115@0gAtHeBtGewhAtywR4i0whRpwwR4ilg0whRpCeglCe?whJeAgH
+No 100% setups found
+Progress: 26.95% (69/256)
+Fumen: v115@AhBtDewhQ4ywBti0whR4wwRpilg0whAeQ4AeRpglCe?whJeAgH
+No 100% setups found
+Progress: 27.34% (70/256)
+Fumen: v115@0gAtHeBtFeQ4AeAtywzhR4Rpwwili0Q4RpAeglDeg0?KeAgH
+No 100% setups found
+Progress: 27.73% (71/256)
+Fumen: v115@7gQ4BeAtFeR4BtzhywQ4Atili0wwRpAeglDeg0AeRp?JeAgH
+No 100% setups found
+Progress: 28.13% (72/256)
+Fumen: v115@vgg0Ieg0Heh0CezhR4ywAtilR4RpwwBtglDeRpAeAt?KeAgH
+No 100% setups found
+Progress: 28.52% (73/256)
+Fumen: v115@tgg0Ieg0Heh0EeQ4ywBtzhR4wwRpBtilAeQ4AeRpBe?glLeAgH
+No 100% setups found
+Progress: 28.91% (74/256)
+Fumen: v115@4gg0Iei0BeQ4BtywzhR4BtwwRpilAeQ4CeRpglLeAg?H
+No 100% setups found
+Progress: 29.30% (75/256)
+Fumen: v115@vgg0Ieg0Heh0CeQ4BtywzhR4BtwwRpilAeQ4CeRpgl?LeAgH
+No 100% setups found
+Progress: 29.69% (76/256)
+Fumen: v115@tgg0Ieg0Heh0EezhywR4AtilRpwwR4BtglBeRpCeAt?KeAgH
+No 100% setups found
+Progress: 30.08% (77/256)
+Fumen: v115@ugglIeglIehlCezhR4ywAti0R4RpwwBtBeg0BeRpAe?AtKeAgH
+No 100% setups found
+Progress: 30.47% (78/256)
+Fumen: v115@sgglIeglIehlEeQ4ywBtzhR4wwRpBti0AeQ4AeRpDe?g0JeAgH
+No 100% setups found
+Progress: 30.86% (79/256)
+Fumen: v115@ugglIeglIehlCeQ4BtywzhR4BtwwRpi0AeQ4CeRpBe?g0JeAgH
+No 100% setups found
+Progress: 31.25% (80/256)
+Fumen: v115@sgglIeglIehlEezhywR4Ati0RpwwR4BtBeg0RpCeAt?KeAgH
+No 100% setups found
+Progress: 31.64% (81/256)
+Fumen: v115@3gglGeilEezhywR4Ati0RpwwR4BtBeg0RpCeAtKeAg?H
+No 100% setups found
+Progress: 32.03% (82/256)
+Fumen: v115@AhAtDeh0RpBtDeg0AeRpAtywR4g0glzhwwR4ilJeAg?H
+No 100% setups found
+Progress: 32.42% (83/256)
+Fumen: v115@/gh0CeQ4BeRpg0DeR4AeRpg0BtywQ4glzhBtwwilJe?AgH
+No 100% setups found
+Progress: 32.81% (84/256)
+Fumen: v115@/gh0EeAtBeg0AeR4BeBtRpg0R4ywAtglRpzhwwilJe?AgH
+No 100% setups found
+Progress: 33.20% (85/256)
+Fumen: v115@AhAtDeh0BeBtR4Beg0AeRpAtR4ywg0glRpzhwwilJe?AgH
+No 100% setups found
+Progress: 33.59% (86/256)
+Fumen: v115@9gh0EeAtBeg0AeR4BeBtBeg0R4ywAtglRpzhwwilRp?JeAgH
+No 100% setups found
+Progress: 33.98% (87/256)
+Fumen: v115@+gAtDeh0BeBtR4Beg0CeAtR4ywg0glRpzhwwilRpJe?AgH
+No 100% setups found
+Progress: 34.38% (88/256)
+Fumen: v115@/gAtCehlCeBtDeglRpg0AtywR4glRpi0wwR4zhJeAg?H
+No 100% setups found
+Progress: 34.77% (89/256)
+Fumen: v115@9ghlDeQ4DeglDeR4Rpg0glBtywQ4Rpi0BtwwzhJeAg?H
+No 100% setups found
+Progress: 35.16% (90/256)
+Fumen: v115@/ghlDeQ4DeglBeBtR4Rpg0glywBtQ4Rpi0wwzhJeAg?H
+No 100% setups found
+Progress: 35.55% (91/256)
+Fumen: v115@/gQ4EehlBeR4BeBtAeglRpg0Q4ywBtglRpi0wwzhJe?AgH
+No 100% setups found
+Progress: 35.94% (92/256)
+Fumen: v115@9ghlDeQ4DeglBeBtR4Beg0glywBtQ4Rpi0wwzhRpJe?AgH
+No 100% setups found
+Progress: 36.33% (93/256)
+Fumen: v115@9gQ4EehlBeR4BeBtAeglBeg0Q4ywBtglRpi0wwzhRp?JeAgH
+No 100% setups found
+Progress: 36.72% (94/256)
+Fumen: v115@5gQ4Deg0DeR4Begli0ywQ4RpglzhwwBtRphlEeBtKe?AgH
+No 100% setups found
+Progress: 37.11% (95/256)
+Fumen: v115@2gAtHeBtDeglAeRpAtywilg0RpR4wwzhg0AeR4Eeh0?JeAgH
+No 100% setups found
+Progress: 37.50% (96/256)
+Fumen: v115@1gRpHeRpEewhilywR4Atwhgli0wwR4BtwhCeg0CeAt?AewhJeAgH
+No 100% setups found
+Progress: 37.89% (97/256)
+Fumen: v115@2gRpEewhBeRpEewhilywR4Atwhgli0wwR4BtwhCeg0?CeAtKeAgH
+No 100% setups found
+Progress: 38.28% (98/256)
+Fumen: v115@9gwhAeR4FewhR4ywBthlwhi0wwRpBtglwhBeg0AeRp?BeglJeAgH
+No 100% setups found
+Progress: 38.67% (99/256)
+Fumen: v115@9gwhAeR4FewhR4ywAtglRpwhi0wwBtglRpwhBeg0Ae?AtAehlKeAgH
+No 100% setups found
+Progress: 39.06% (100/256)
+Fumen: v115@9gwhAeR4FewhR4ywAtilwhi0wwBtglRpwhBeg0AeAt?BeRpJeAgH
+No 100% setups found
+Progress: 39.45% (101/256)
+Fumen: v115@4gQ4IeR4BewhilywQ4Rpwhgli0wwBtRpwhCeg0BeBt?AewhJeAgH
+No 100% setups found
+Progress: 39.84% (102/256)
+Fumen: v115@+gR4CewhCeR4ywAtwhglRpi0wwBtwhglRpBeg0AeAt?AewhhlKeAgH
+No 100% setups found
+Progress: 40.23% (103/256)
+Fumen: v115@+gR4CewhCeR4ywAtwhili0wwBtwhglRpBeg0AeAtAe?whAeRpJeAgH
+No 100% setups found
+Progress: 40.63% (104/256)
+Fumen: v115@+gR4FewhR4ywAtglRpwhi0wwBtglRpwhBeg0AeAtAe?hlAewhJeAgH
+No 100% setups found
+Progress: 41.02% (105/256)
+Fumen: v115@+gR4FewhR4ywAtilwhi0wwBtglRpwhBeg0AeAtBeRp?whJeAgH
+No 100% setups found
+Progress: 41.41% (106/256)
+Fumen: v115@+gR4FewhR4ywBthlwhi0wwRpBtglwhBeg0AeRpBegl?whJeAgH
+No 100% setups found
+Progress: 41.80% (107/256)
+Fumen: v115@5gQ4CewhEeR4BewhilywQ4Rpwhgli0wwBtRpwhCeg0?BeBtKeAgH
+No 100% setups found
+Progress: 42.19% (108/256)
+Fumen: v115@9gwhDeR4CewhglRpR4ywAtwhglRpi0wwBtwhhlCeg0?AeAtKeAgH
+No 100% setups found
+Progress: 42.58% (109/256)
+Fumen: v115@9gwhDeR4CewhilR4ywAtwhglRpi0wwBtwhAeRpBeg0?AeAtKeAgH
+No 100% setups found
+Progress: 42.97% (110/256)
+Fumen: v115@AhwhAeR4CeglRpwhR4ywAtglRpwhi0wwBthlAewhBe?g0AeAtKeAgH
+No 100% setups found
+Progress: 43.36% (111/256)
+Fumen: v115@AhwhAeR4CeilwhR4ywAtglRpwhi0wwBtAeRpwhBeg0?AeAtKeAgH
+No 100% setups found
+Progress: 43.75% (112/256)
+Fumen: v115@BhR4CewhglRpR4ywAtwhglRpi0wwBtwhhlCeg0AeAt?AewhJeAgH
+No 100% setups found
+Progress: 44.14% (113/256)
+Fumen: v115@BhR4CewhilR4ywAtwhglRpi0wwBtwhAeRpBeg0AeAt?AewhJeAgH
+No 100% setups found
+Progress: 44.53% (114/256)
+Fumen: v115@4gRpHeRpBewhQ4Btywi0whR4Btwwilg0whAeQ4Cegl?CewhJeAgH
+No 100% setups found
+Progress: 44.92% (115/256)
+Fumen: v115@5gRpBewhEeRpBewhQ4Btywi0whR4Btwwilg0whAeQ4?CeglMeAgH
+No 100% setups found
+Progress: 45.31% (116/256)
+Fumen: v115@9gwhCeBtDewhQ4ywBtRpg0whR4wwilRpg0whAeQ4Ae?glCeh0JeAgH
+No 100% setups found
+Progress: 45.70% (117/256)
+Fumen: v115@9gwhCeBtDewhQ4ywBti0whR4wwilRpg0whAeQ4Aegl?BeRpKeAgH
+No 100% setups found
+Progress: 46.09% (118/256)
+Fumen: v115@AhBtAewhCeQ4ywBtwhRpg0R4wwilwhRpg0AeQ4Aegl?BewhAeh0JeAgH
+No 100% setups found
+Progress: 46.48% (119/256)
+Fumen: v115@AhBtAewhCeQ4ywBtwhi0R4wwilwhRpg0AeQ4AeglBe?whRpKeAgH
+No 100% setups found
+Progress: 46.88% (120/256)
+Fumen: v115@AhBtDewhQ4ywBtRpg0whR4wwilRpg0whAeQ4AeglCe?h0whJeAgH
+No 100% setups found
+Progress: 47.27% (121/256)
+Fumen: v115@AhBtDewhQ4ywBti0whR4wwilRpg0whAeQ4AeglBeRp?AewhJeAgH
+No 100% setups found
+Progress: 47.66% (122/256)
+Fumen: v115@2gAtHeBtEewhRpAtywi0whRpR4wwilg0whAeR4Begl?CewhJeAgH
+No 100% setups found
+Progress: 48.05% (123/256)
+Fumen: v115@9gwhFeBtAewhh0R4ywBtwhg0R4Rpwwilwhg0BeRpAe?glLeAgH
+No 100% setups found
+Progress: 48.44% (124/256)
+Fumen: v115@9gwhFeBtAewhRpg0Q4ywBtwhRpg0R4wwilwhAeh0Ae?Q4AeglLeAgH
+No 100% setups found
+Progress: 48.83% (125/256)
+Fumen: v115@9gwhFeBtAewhi0Q4ywBtwhRpg0R4wwilwhRpBeQ4Ae?glLeAgH
+No 100% setups found
+Progress: 49.22% (126/256)
+Fumen: v115@AhwhCeBtAeRpg0whQ4ywBtRpg0whR4wwilAeh0whAe?Q4AeglLeAgH
+No 100% setups found
+Progress: 49.61% (127/256)
+Fumen: v115@AhwhCeBtAei0whQ4ywBtRpg0whR4wwilRpAewhAeQ4?AeglLeAgH
+No 100% setups found
+Progress: 50.00% (128/256)
+Fumen: v115@3gAtEewhBeBtEewhRpAtywi0whRpR4wwilg0whAeR4?BeglMeAgH
+No 100% setups found
+Progress: 50.39% (129/256)
+Fumen: v115@DhBtAewhh0R4ywBtwhg0R4Rpwwilwhg0BeRpAeglBe?whJeAgH
+No 100% setups found
+Progress: 50.78% (130/256)
+Fumen: v115@DhBtAewhRpg0Q4ywBtwhRpg0R4wwilwhAeh0AeQ4Ae?glBewhJeAgH
+No 100% setups found
+Progress: 51.17% (131/256)
+Fumen: v115@DhBtAewhi0Q4ywBtwhRpg0R4wwilwhRpBeQ4AeglBe?whJeAgH
+No 100% setups found
+Progress: 51.56% (132/256)
+Fumen: v115@0gAtHeBtFeQ4AeAtywzhR4Rpwwi0ilQ4RpCeg0glMe?AgH
+No 100% setups found
+Progress: 51.95% (133/256)
+Fumen: v115@4gAtHeBtBeQ4AezhAtywR4ili0wwRpQ4glDeg0AeRp?KeAgH
+No 100% setups found
+Progress: 52.34% (134/256)
+Fumen: v115@7gQ4BeAtFeR4BtzhywQ4Ati0ilwwRpCeg0glCeRpJe?AgH
+No 100% setups found
+Progress: 52.73% (135/256)
+Fumen: v115@3gQ4FeAtBeR4DeBtywQ4zhAtRpwwili0AeRpAeglDe?g0JeAgH
+No 100% setups found
+Progress: 53.13% (136/256)
+Fumen: v115@ygg0Ieg0Heh0zhR4ywAtilR4RpwwBtglDeRpAeAtKe?AgH
+No 100% setups found
+Progress: 53.52% (137/256)
+Fumen: v115@3gg0Iei0CezhR4ywAtilR4RpwwBtglDeRpAeAtKeAg?H
+No 100% setups found
+Progress: 53.91% (138/256)
+Fumen: v115@ygg0Ieg0Heh0RpzhywAtRpR4ilwwBtAeR4AeglCeAt?KeAgH
+No 100% setups found
+Progress: 54.30% (139/256)
+Fumen: v115@2gg0Iei0DeQ4ywBtzhR4wwRpBtilAeQ4AeRpBeglLe?AgH
+No 100% setups found
+Progress: 54.69% (140/256)
+Fumen: v115@qgg0Ieg0Heh0HeQ4ywBtzhR4wwRpBtilAeQ4AeRpBe?glLeAgH
+No 100% setups found
+Progress: 55.08% (141/256)
+Fumen: v115@vgg0Ieg0Heh0CeQ4BtywzhR4BtwwilRpAeQ4CeglBe?RpJeAgH
+No 100% setups found
+Progress: 55.47% (142/256)
+Fumen: v115@Ahi0DeQ4ywAtg0zhR4wwBtilRpAeQ4AeAtAeglBeRp?JeAgH
+No 100% setups found
+Progress: 55.86% (143/256)
+Fumen: v115@Ahi0DeQ4ywAtg0zhR4wwBtRpilAeQ4AeAtAeRpglLe?AgH
+No 100% setups found
+Progress: 56.25% (144/256)
+Fumen: v115@1gg0Iei0EezhywR4AtilRpwwR4BtglBeRpCeAtKeAg?H
+No 100% setups found
+Progress: 56.64% (145/256)
+Fumen: v115@tgg0Ieg0Heh0EeQ4ywzhRpR4wwilBtRpAeQ4AeglCe?BtKeAgH
+No 100% setups found
+Progress: 57.03% (146/256)
+Fumen: v115@qgg0Ieg0Heh0HeQ4ywzhRpR4wwilBtRpAeQ4AeglCe?BtKeAgH
+No 100% setups found
+Progress: 57.42% (147/256)
+Fumen: v115@xgglIeglIehlzhR4ywAti0R4RpwwBtBeg0BeRpAeAt?KeAgH
+No 100% setups found
+Progress: 57.81% (148/256)
+Fumen: v115@5gglGeilCezhR4ywAti0R4RpwwBtBeg0BeRpAeAtKe?AgH
+No 100% setups found
+Progress: 58.20% (149/256)
+Fumen: v115@BhilCezhglQ4ywAti0RpR4wwBtBeg0RpAeQ4AeAtKe?AgH
+No 100% setups found
+Progress: 58.59% (150/256)
+Fumen: v115@BhilCezhglQ4ywAtRpi0R4wwBtRpBeg0AeQ4AeAtKe?AgH
+No 100% setups found
+Progress: 58.98% (151/256)
+Fumen: v115@xgglIeglIehlRpzhywAtRpR4i0wwBtAeR4Ceg0AeAt?KeAgH
+No 100% setups found
+Progress: 59.38% (152/256)
+Fumen: v115@ugglIeglIehlCeRpzhywAtRpR4i0wwBtAeR4Ceg0Ae?AtKeAgH
+No 100% setups found
+Progress: 59.77% (153/256)
+Fumen: v115@4gglGeilDeQ4ywBtzhR4wwRpBti0AeQ4AeRpDeg0Je?AgH
+No 100% setups found
+Progress: 60.16% (154/256)
+Fumen: v115@pgglIeglIehlHeQ4ywBtzhR4wwRpBti0AeQ4AeRpDe?g0JeAgH
+No 100% setups found
+Progress: 60.55% (155/256)
+Fumen: v115@6gglGeilBeQ4BtywzhR4BtwwRpi0AeQ4CeRpBeg0Je?AgH
+No 100% setups found
+Progress: 60.94% (156/256)
+Fumen: v115@sgglIeglIehlEezhywR4AtRpi0wwR4BtRpBeg0CeAt?KeAgH
+No 100% setups found
+Progress: 61.33% (157/256)
+Fumen: v115@pgglIeglIehlHeQ4ywzhRpR4wwi0BtRpAeQ4Ceg0Ae?BtKeAgH
+No 100% setups found
+Progress: 61.72% (158/256)
+Fumen: v115@3gh0EeAtBeg0EeBtR4g0wwzhAtR4RpxwilCeRpwwAe?glLeAgH
+No 100% setups found
+Progress: 62.11% (159/256)
+Fumen: v115@3ghlIeglBeQ4AezhwwglBtR4i0xwRpBtQ4Beg0Aeww?RpMeAgH
+No 100% setups found
+Progress: 62.50% (160/256)
+Fumen: v115@/gBtAeQ4DeywBtR4glRpg0wwzhQ4glRpi0DehlKeAg?H
+No 100% setups found
+Progress: 62.89% (161/256)
+Fumen: v115@/gBtAeQ4DeywBtR4ilg0wwzhQ4glRpi0EeRpJeAgH
+No 100% setups found
+Progress: 63.28% (162/256)
+Fumen: v115@ChBtAeQ4AeglRpywBtR4glRpg0wwzhQ4hlAei0NeAg?H
+No 100% setups found
+Progress: 63.67% (163/256)
+Fumen: v115@ChBtAeQ4AeilywBtR4glRpg0wwzhQ4AeRpi0NeAgH
+No 100% setups found
+Progress: 64.06% (164/256)
+Fumen: v115@+gAtAeR4EeBtR4ywRpg0AtzhwwglRpg0DeilAeh0Je?AgH
+No 100% setups found
+Progress: 64.45% (165/256)
+Fumen: v115@+gAtAeR4EeBtR4ywi0AtzhwwglRpg0DeilRpKeAgH
+No 100% setups found
+Progress: 64.84% (166/256)
+Fumen: v115@BhAtAeR4BeRpg0BtR4ywRpg0AtzhwwglAeh0DeilJe?AgH
+No 100% setups found
+Progress: 65.23% (167/256)
+Fumen: v115@BhAtAeR4Bei0BtR4ywRpg0AtzhwwglRpEeilJeAgH
+No 100% setups found
+Progress: 65.63% (168/256)
+Fumen: v115@7gRpCeg0DeRpili0ywAtglzhR4wwBtDeR4BeAtKeAg?H
+No 100% setups found
+Progress: 66.02% (169/256)
+Fumen: v115@4gRpFeg0AeRpCeili0ywAtglzhR4wwBtDeR4BeAtKe?AgH
+No 100% setups found
+Progress: 66.41% (170/256)
+Fumen: v115@5gRpCeg0DeRpBegli0ywR4AtglzhwwR4BthlFeAtKe?AgH
+No 100% setups found
+Progress: 66.80% (171/256)
+Fumen: v115@2gRpFeg0AeRpEegli0ywR4AtglzhwwR4BthlFeAtKe?AgH
+No 100% setups found
+Progress: 67.19% (172/256)
+Fumen: v115@BhBtAeg0BeRpywBti0RpglwwzhR4ilDeR4KeAgH
+No 100% setups found
+Progress: 67.58% (173/256)
+Fumen: v115@9gg0BeRpBeBtAei0RpywBtzhR4wwilCeR4BeglLeAg?H
+No 100% setups found
+Progress: 67.97% (174/256)
+Fumen: v115@+gR4BeRpBeglR4ywRpili0wwBtzhBeg0BeBtMeAgH
+No 100% setups found
+Progress: 68.36% (175/256)
+Fumen: v115@4gRpHeRpAeglAeQ4Btywilg0R4Btwwzhg0AeQ4Feh0?JeAgH
+No 100% setups found
+Progress: 68.75% (176/256)
+Fumen: v115@1gRpHeRpDeglAeQ4Btywilg0R4Btwwzhg0AeQ4Feh0?JeAgH
+No 100% setups found
+Progress: 69.14% (177/256)
+Fumen: v115@2gRpHeRpAeglCeQ4ywili0R4wwBtzhg0AeQ4BeBtNe?AgH
+No 100% setups found
+Progress: 69.53% (178/256)
+Fumen: v115@zgRpHeRpDeglCeQ4ywili0R4wwBtzhg0AeQ4BeBtNe?AgH
+No 100% setups found
+Progress: 69.92% (179/256)
+Fumen: v115@/gglAeR4DeilR4ywRpBtzhwwg0RpAeBtDei0JeAgH
+No 100% setups found
+Progress: 70.31% (180/256)
+Fumen: v115@4gRpHeRpBewhilywR4Atwhgli0wwR4BtwhCeg0CeAt?AewhJeAgH
+No 100% setups found
+Progress: 70.70% (181/256)
+Fumen: v115@5gRpBewhEeRpBewhilywR4Atwhgli0wwR4BtwhCeg0?CeAtKeAgH
+No 100% setups found
+Progress: 71.09% (182/256)
+Fumen: v115@9gwhCeBtDewhQ4ywBtglRpwhR4wwi0glRpwhAeQ4Ce?g0hlKeAgH
+No 100% setups found
+Progress: 71.48% (183/256)
+Fumen: v115@9gwhCeBtDewhQ4ywBtilwhR4wwi0glRpwhAeQ4Ceg0?AeRpJeAgH
+No 100% setups found
+Progress: 71.88% (184/256)
+Fumen: v115@AhBtAewhCeQ4ywBtwhglRpR4wwi0whglRpAeQ4Ceg0?whhlKeAgH
+No 100% setups found
+Progress: 72.27% (185/256)
+Fumen: v115@AhBtAewhCeQ4ywBtwhilR4wwi0whglRpAeQ4Ceg0wh?AeRpJeAgH
+No 100% setups found
+Progress: 72.66% (186/256)
+Fumen: v115@AhBtDewhQ4ywBtglRpwhR4wwi0glRpwhAeQ4Ceg0hl?AewhJeAgH
+No 100% setups found
+Progress: 73.05% (187/256)
+Fumen: v115@AhBtDewhQ4ywBtilwhR4wwi0glRpwhAeQ4Ceg0AeRp?whJeAgH
+No 100% setups found
+Progress: 73.44% (188/256)
+Fumen: v115@9gwhFeBtAewhglRpQ4ywBtwhglRpR4wwi0whhlBeQ4?Ceg0JeAgH
+No 100% setups found
+Progress: 73.83% (189/256)
+Fumen: v115@9gwhFeBtAewhilQ4ywBtwhglRpR4wwi0whAeRpAeQ4?Ceg0JeAgH
+No 100% setups found
+Progress: 74.22% (190/256)
+Fumen: v115@AhwhCeBtAeglRpwhQ4ywBtglRpwhR4wwi0hlAewhAe?Q4Ceg0JeAgH
+No 100% setups found
+Progress: 74.61% (191/256)
+Fumen: v115@AhwhCeBtAeilwhQ4ywBtglRpwhR4wwi0AeRpwhAeQ4?Ceg0JeAgH
+No 100% setups found
+Progress: 75.00% (192/256)
+Fumen: v115@DhBtAewhglRpQ4ywBtwhglRpR4wwi0whhlBeQ4Ceg0?whJeAgH
+No 100% setups found
+Progress: 75.39% (193/256)
+Fumen: v115@DhBtAewhilQ4ywBtwhglRpR4wwi0whAeRpAeQ4Ceg0?whJeAgH
+No 100% setups found
+Progress: 75.78% (194/256)
+Fumen: v115@1gRpHeRpEewhQ4Btywi0whR4Btwwilg0whAeQ4Cegl?CewhJeAgH
+No 100% setups found
+Progress: 76.17% (195/256)
+Fumen: v115@2gRpEewhBeRpEewhQ4Btywi0whR4Btwwilg0whAeQ4?CeglMeAgH
+No 100% setups found
+Progress: 76.56% (196/256)
+Fumen: v115@9gwhAeR4FewhR4ywAtRpg0whilwwBtRpg0whglCeAt?Beh0JeAgH
+No 100% setups found
+Progress: 76.95% (197/256)
+Fumen: v115@9gwhAeR4FewhR4ywAti0whilwwBtRpg0whglCeAtAe?RpKeAgH
+No 100% setups found
+Progress: 77.34% (198/256)
+Fumen: v115@+gR4CewhCeR4ywAtwhRpg0ilwwBtwhRpg0glCeAtAe?whAeh0JeAgH
+No 100% setups found
+Progress: 77.73% (199/256)
+Fumen: v115@+gR4CewhCeR4ywAtwhi0ilwwBtwhRpg0glCeAtAewh?RpKeAgH
+No 100% setups found
+Progress: 78.13% (200/256)
+Fumen: v115@+gR4FewhR4ywAtRpg0whilwwBtRpg0whglCeAtBeh0?whJeAgH
+No 100% setups found
+Progress: 78.52% (201/256)
+Fumen: v115@+gR4FewhR4ywAti0whilwwBtRpg0whglCeAtAeRpAe?whJeAgH
+No 100% setups found
+Progress: 78.91% (202/256)
+Fumen: v115@9gwhDeR4CewhRpg0R4ywAtwhRpg0ilwwBtwhAeh0gl?CeAtKeAgH
+No 100% setups found
+Progress: 79.30% (203/256)
+Fumen: v115@9gwhDeR4Cewhi0R4ywAtwhRpg0ilwwBtwhRpAeglCe?AtKeAgH
+No 100% setups found
+Progress: 79.69% (204/256)
+Fumen: v115@AhwhAeR4CeRpg0whR4ywAtRpg0whilwwBtAeh0whgl?CeAtKeAgH
+No 100% setups found
+Progress: 80.08% (205/256)
+Fumen: v115@AhwhAeR4Cei0whR4ywAtRpg0whilwwBtRpAewhglCe?AtKeAgH
+No 100% setups found
+Progress: 80.47% (206/256)
+Fumen: v115@BhR4CewhRpg0R4ywAtwhRpg0ilwwBtwhAeh0glCeAt?AewhJeAgH
+No 100% setups found
+Progress: 80.86% (207/256)
+Fumen: v115@BhR4Cewhi0R4ywAtwhRpg0ilwwBtwhRpAeglCeAtAe?whJeAgH
+No 100% setups found
+Progress: 81.25% (208/256)
+Fumen: v115@4gAtHeBtBeQ4AezhAtywR4i0ilwwRpQ4Beg0glCeRp?KeAgH
+No 100% setups found
+Progress: 81.64% (209/256)
+Fumen: v115@3gQ4FeAtBeR4DeBtywQ4zhAtRpwwi0ilAeRpCeg0gl?LeAgH
+No 100% setups found
+Progress: 82.03% (210/256)
+Fumen: v115@3gg0Iei0CeRpzhywAtRpR4ilwwBtAeR4AeglCeAtKe?AgH
+No 100% setups found
+Progress: 82.42% (211/256)
+Fumen: v115@vgg0Ieg0Heh0CeRpzhywAtRpR4ilwwBtAeR4AeglCe?AtKeAgH
+No 100% setups found
+Progress: 82.81% (212/256)
+Fumen: v115@4gg0Iei0BeQ4BtywzhR4BtwwilRpAeQ4CeglBeRpJe?AgH
+No 100% setups found
+Progress: 83.20% (213/256)
+Fumen: v115@0gg0Iei0FeQ4BtywzhR4BtwwilRpAeQ4CeglBeRpJe?AgH
+No 100% setups found
+Progress: 83.59% (214/256)
+Fumen: v115@sgg0Ieg0Heh0FeQ4BtywzhR4BtwwilRpAeQ4CeglBe?RpJeAgH
+No 100% setups found
+Progress: 83.98% (215/256)
+Fumen: v115@0gg0Iei0FeQ4BtywzhR4BtwwRpilAeQ4CeRpglLeAg?H
+No 100% setups found
+Progress: 84.38% (216/256)
+Fumen: v115@sgg0Ieg0Heh0FeQ4BtywzhR4BtwwRpilAeQ4CeRpgl?LeAgH
+No 100% setups found
+Progress: 84.77% (217/256)
+Fumen: v115@5gg0Iei0AezhywR4AtRpilwwR4BtRpglEeAtKeAgH
+No 100% setups found
+Progress: 85.16% (218/256)
+Fumen: v115@wgg0Ieg0Heh0BezhywR4AtRpilwwR4BtRpglEeAtKe?AgH
+No 100% setups found
+Progress: 85.55% (219/256)
+Fumen: v115@1gg0Iei0EezhywR4AtRpilwwR4BtRpglEeAtKeAgH
+No 100% setups found
+Progress: 85.94% (220/256)
+Fumen: v115@tgg0Ieg0Heh0EezhywR4AtRpilwwR4BtRpglEeAtKe?AgH
+No 100% setups found
+Progress: 86.33% (221/256)
+Fumen: v115@5gg0Iei0AezhywR4AtilRpwwR4BtglBeRpCeAtKeAg?H
+No 100% setups found
+Progress: 86.72% (222/256)
+Fumen: v115@wgg0Ieg0Heh0BezhywR4AtilRpwwR4BtglBeRpCeAt?KeAgH
+No 100% setups found
+Progress: 87.11% (223/256)
+Fumen: v115@2gg0Iei0DeQ4ywzhRpR4wwilBtRpAeQ4AeglCeBtKe?AgH
+No 100% setups found
+Progress: 87.50% (224/256)
+Fumen: v115@5gglGeilCeRpzhywAtRpR4i0wwBtAeR4Ceg0AeAtKe?AgH
+No 100% setups found
+Progress: 87.89% (225/256)
+Fumen: v115@ugglIeglIehlCeQ4BtywzhR4Btwwi0RpAeQ4Eeg0Rp?JeAgH
+No 100% setups found
+Progress: 88.28% (226/256)
+Fumen: v115@6gglGeilBeQ4BtywzhR4Btwwi0RpAeQ4Eeg0RpJeAg?H
+No 100% setups found
+Progress: 88.67% (227/256)
+Fumen: v115@rgglIeglIehlFeQ4BtywzhR4Btwwi0RpAeQ4Eeg0Rp?JeAgH
+No 100% setups found
+Progress: 89.06% (228/256)
+Fumen: v115@2gglGeilFeQ4BtywzhR4Btwwi0RpAeQ4Eeg0RpJeAg?H
+No 100% setups found
+Progress: 89.45% (229/256)
+Fumen: v115@rgglIeglIehlFeQ4BtywzhR4BtwwRpi0AeQ4CeRpBe?g0JeAgH
+No 100% setups found
+Progress: 89.84% (230/256)
+Fumen: v115@2gglGeilFeQ4BtywzhR4BtwwRpi0AeQ4CeRpBeg0Je?AgH
+No 100% setups found
+Progress: 90.23% (231/256)
+Fumen: v115@vgglIeglIehlBezhywR4AtRpi0wwR4BtRpBeg0CeAt?KeAgH
+No 100% setups found
+Progress: 90.63% (232/256)
+Fumen: v115@7gglGeilAezhywR4AtRpi0wwR4BtRpBeg0CeAtKeAg?H
+No 100% setups found
+Progress: 91.02% (233/256)
+Fumen: v115@3gglGeilEezhywR4AtRpi0wwR4BtRpBeg0CeAtKeAg?H
+No 100% setups found
+Progress: 91.41% (234/256)
+Fumen: v115@vgglIeglIehlBezhywR4Ati0RpwwR4BtBeg0RpCeAt?KeAgH
+No 100% setups found
+Progress: 91.80% (235/256)
+Fumen: v115@7gglGeilAezhywR4Ati0RpwwR4BtBeg0RpCeAtKeAg?H
+No 100% setups found
+Progress: 92.19% (236/256)
+Fumen: v115@sgglIeglIehlEeQ4ywzhRpR4wwi0BtRpAeQ4Ceg0Ae?BtKeAgH
+No 100% setups found
+Progress: 92.58% (237/256)
+Fumen: v115@4gglGeilDeQ4ywzhRpR4wwi0BtRpAeQ4Ceg0AeBtKe?AgH
+No 100% setups found
+Progress: 92.97% (238/256)
+Fumen: v115@9gg0CeR4Dei0R4ywhlBtzhwwRpglAeBtDeRpglJeAg?H
+No 100% setups found
+Progress: 93.36% (239/256)
+Fumen: v115@9gRpBeBtAeg0BeRpywBti0ilwwzhR4glFeR4KeAgH
+No 100% setups found
+Progress: 93.75% (240/256)
+Fumen: v115@+gR4BeRpg0BeR4ywRpi0ilwwBtzhglDeBtMeAgH
+No 100% setups found
+Progress: 94.14% (241/256)
+Fumen: v115@/gglRpBeBtAeilRpywBtzhR4wwi0CeR4Deg0JeAgH
+No 100% setups found
+Progress: 94.53% (242/256)
+Fumen: v115@/gglAeR4BeRpilR4ywRpBtzhwwi0AeBtFeg0JeAgH
+No 100% setups found
+Progress: 94.92% (243/256)
+Fumen: v115@BhBtCeglh0ywBtilg0RpwwzhR4g0RpDeR4KeAgH
+No 100% setups found
+Progress: 95.31% (244/256)
+Fumen: v115@/gzhBeQ4AeilBtywR4gli0BtwwRpQ4Ceg0CeRpKeAg?H
+No 100% setups found
+Progress: 95.70% (245/256)
+Fumen: v115@9gglFeBtAeglzhywBthlR4Rpwwi0AeR4AeRpCeg0Je?AgH
+No 100% setups found
+Progress: 96.09% (246/256)
+Fumen: v115@+gAtBezhBeBtywR4i0AtRpwwR4ilg0AeRpCeglMeAg?H
+No 100% setups found
+Progress: 96.48% (247/256)
+Fumen: v115@+gR4Feg0R4ywzhg0ilwwRpBth0glCeRpAeBtKeAgH
+No 100% setups found
+Progress: 96.88% (248/256)
+Fumen: v115@9gRpg0DeBtAeRpi0ywBtzhR4wwilCeR4BeglLeAgH
+No 100% setups found
+Progress: 97.27% (249/256)
+Fumen: v115@+gR4Beg0BeRpR4ywi0RpilwwBtzhglDeBtMeAgH
+No 100% setups found
+Progress: 97.66% (250/256)
+Fumen: v115@9gRpBeglBeBtAeRpilywBtzhR4wwi0CeR4Deg0JeAg?H
+No 100% setups found
+Progress: 98.05% (251/256)
+Fumen: v115@+gR4DeglRpR4ywilRpi0wwBtzhBeg0BeBtMeAgH
+No 100% setups found
+Progress: 98.44% (252/256)
+Fumen: v115@9gzhDeQ4AeilywBtR4gli0wwRpBtQ4Ceg0AeRpMeAg?H
+No 100% setups found
+Progress: 98.83% (253/256)
+Fumen: v115@+gAtDezhBtR4ywi0AtR4Rpwwilg0CeRpAeglMeAgH
+No 100% setups found
+Progress: 99.22% (254/256)
+Fumen: v115@9gg0CeR4BeRpi0R4ywRpBtzhwwilAeBtDeglLeAgH
+No 100% setups found
+Progress: 99.61% (255/256)
+Fumen: v115@9gRpBeBtCeglRpywBtili0wwzhR4Beg0DeR4KeAgH
+No 100% setups found
+Hold Pieces: s
+Progress: 0.00% (0/36)
+Fumen: v115@DhAtDehlRpBtBeg0RpglRpAtywg0Rpglzhwwh0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@4gRpGeAtRpDehlBtR4Beg0RpglAtR4ywg0Rpglzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@4gR4GeR4AtDehlRpBtBeg0RpglRpAtywg0Rpglzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@DhAtAeR4AehlRpBtR4g0RpglRpAtywg0Rpglzhwwh0?JeAgH
+Progress: 2.78% (1/36)
+Fumen: v115@AhAtFeRpBtBeg0AehlRpAtywg0Rpglzhwwh0RpglJe?AgH
+No 100% setups found
+Progress: 5.56% (2/36)
+Fumen: v115@AhAtFeRpBtBeg0RpAeRpAtywg0Rpglzhwwh0ilJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@AhAtAeR4CeRpBtR4g0RpAeRpAtywg0Rpglzhwwh0il?JeAgH
+Progress: 8.33% (3/36)
+Fumen: v115@DhAtCeRpAeRpBtBeg0RpglRpAtywg0ilzhwwh0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@4gRpGeAtRpCeRpAeBtR4Beg0RpglAtR4ywg0ilzhww?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@4gR4GeR4AtCeRpAeRpBtBeg0RpglRpAtywg0ilzhww?h0JeAgH
+Progress: 11.11% (4/36)
+Fumen: v115@BhRpCeAtBeg0AeRpBeBtRpi0ywAtglRpzhwwilJeAg?H
+No 100% setups found
+Progress: 13.89% (5/36)
+Fumen: v115@/gRpCeAtBeg0AeRpBeBtBei0ywAtglRpzhwwilRpJe?AgH
+No 100% setups found
+Progress: 16.67% (6/36)
+Fumen: v115@BhAtCehlCeBtBeRpglRpg0AtywRpglRpi0wwzhJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@/gAtRpCehlAeBtRpBeRpglg0AtywR4Rpgli0wwR4zh?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gilCeRpAeAtglR4Beg0RpBtR4ywg0RpAtzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCeRpAeR4BtBeg0RpilAtywg0Rpglzhwwh0Rp?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@/gR4AtCehlAeR4BtBeRpglRpg0AtywRpglRpi0wwzh?JeAgH
+Progress: 19.44% (7/36)
+Fumen: v115@/gAtCehlCeBtBeRpglBeg0AtywRpglRpi0wwzhRpJe?AgH
+No 100% setups found
+Progress: 22.22% (8/36)
+Fumen: v115@/gAtHeBtBeRpilg0AtywRpglRpi0wwzhRpJeAgH
+No 100% setups found
+Progress: 25.00% (9/36)
+Fumen: v115@BhglRpFeAtglRpBeg0RpBthlywg0RpAtzhwwh0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@BhAtRpAeR4CeBtRpR4glRpg0AtywilRpi0wwzhJeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@BhglRpAeR4CeAtglRpR4g0RpBthlywg0RpAtzhwwh0?JeAgH
+Progress: 27.78% (10/36)
+Fumen: v115@/gglRpFeAtglRpBeg0BeBthlywg0RpAtzhwwh0RpJe?AgH
+No 100% setups found
+Progress: 30.56% (11/36)
+Fumen: v115@/gRpEewhglAeRpBeg0BewhglBtywg0RpwhhlBtwwh0?RpwhJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@zgQ4IeR4RpEewhglQ4RpBeg0BewhglBtywg0Rpwhhl?Btwwh0RpwhJeAgH
+Progress: 33.33% (12/36)
+Fumen: v115@/gRpCewhBeglAeRpBeg0whBeglBtywg0whRphlBtww?h0whRpJeAgH
+No 100% setups found
+Progress: 36.11% (13/36)
+Fumen: v115@9gwhBeRpEewhglAeRpBeg0BewhglBtywg0RpwhhlBt?wwh0RpJeAgH
+No 100% setups found
+Progress: 38.89% (14/36)
+Fumen: v115@9gwhDeRpCewhBeglAeRpBeg0whRpglBtywg0whRphl?Btwwh0JeAgH
+No 100% setups found
+Progress: 41.67% (15/36)
+Fumen: v115@/gwhBeRpEewhglAeRpBeg0RpwhglBtywg0RpwhhlBt?wwh0JeAgH
+No 100% setups found
+Progress: 44.44% (16/36)
+Fumen: v115@BhRpCewhBeglAeRpBeg0whRpglBtywg0whRphlBtww?h0whJeAgH
+No 100% setups found
+Progress: 47.22% (17/36)
+Fumen: v115@4gAtDewhCeBtDewhglBeAtg0Dewhglywg0Tpwhhlww?h0TpJeAgH
+No 100% setups found
+Progress: 50.00% (18/36)
+Fumen: v115@3gAtHeBtwhDeglBeAtg0whDeglywg0whTphlwwh0wh?TpJeAgH
+No 100% setups found
+Progress: 52.78% (19/36)
+Fumen: v115@3gAtHeBtBewhBeglBeAtg0BewhBeglywg0RpwhRphl?wwh0RpwhRpJeAgH
+No 100% setups found
+Progress: 55.56% (20/36)
+Fumen: v115@3gAtHeBtDewhglBeAtg0Dewhglywg0Tpwhhlwwh0Tp?whJeAgH
+No 100% setups found
+Progress: 58.33% (21/36)
+Fumen: v115@5gAtHeBtBewhBeglBeAtg0BewhRpglywg0RpwhRphl?wwh0RpwhJeAgH
+No 100% setups found
+Progress: 61.11% (22/36)
+Fumen: v115@5gAtHeBtwhDeglBeAtg0whBeRpglywg0whTphlwwh0?whRpJeAgH
+No 100% setups found
+Progress: 63.89% (23/36)
+Fumen: v115@6gAtBewhEeBtBewhBeglBeAtg0BewhRpglywg0Rpwh?Rphlwwh0RpJeAgH
+No 100% setups found
+Progress: 66.67% (24/36)
+Fumen: v115@6gAtDewhCeBtDewhglBeAtg0BeRpwhglywg0Tpwhhl?wwh0RpJeAgH
+No 100% setups found
+Progress: 69.44% (25/36)
+Fumen: v115@8gAtwhGeBtwhDeglBeAtg0whTpglywg0whTphlwwh0?JeAgH
+No 100% setups found
+Progress: 72.22% (26/36)
+Fumen: v115@8gAtBewhEeBtBewhBeglBeAtg0RpwhRpglywg0Rpwh?Rphlwwh0JeAgH
+No 100% setups found
+Progress: 75.00% (27/36)
+Fumen: v115@8gAtDewhCeBtDewhglBeAtg0Tpwhglywg0Tpwhhlww?h0JeAgH
+No 100% setups found
+Progress: 77.78% (28/36)
+Fumen: v115@7gAtHeBtwhDeglBeAtg0whTpglywg0whTphlwwh0wh?JeAgH
+No 100% setups found
+Progress: 80.56% (29/36)
+Fumen: v115@ChAtBeh0BeRpBtBeg0AeTpAtywg0glRpzhwwilJeAg?H
+No 100% setups found
+Progress: 83.33% (30/36)
+Fumen: v115@AhAtBeh0BeRpBtBeg0CeRpAtywg0glRpzhwwilRpJe?AgH
+No 100% setups found
+Progress: 86.11% (31/36)
+Fumen: v115@DhilBeAtRpBeglg0BeBtRpywg0RpAtzhwwh0RpJeAg?H
+No 100% setups found
+Progress: 88.89% (32/36)
+Fumen: v115@BhglBeBtAeTpglywBtTphlwwi0AezhDeg0JeAgH
+No 100% setups found
+Progress: 91.67% (33/36)
+Fumen: v115@sgg0Iei0IewhDeglCewwwhDeglBtxwwhTphlBtwwwh?TpJeAgH
+No 100% setups found
+Progress: 94.44% (34/36)
+Fumen: v115@ugg0Iei0IewhDeglCewwwhBeRpglBtxwwhTphlBtww?whRpJeAgH
+No 100% setups found
+Progress: 97.22% (35/36)
+Fumen: v115@wgg0Iei0IewhDeglCewwwhTpglBtxwwhTphlBtwwwh?JeAgH
+No 100% setups found
+Hold Pieces: z
+Progress: 0.00% (0/36)
+Fumen: v115@DhQ4DeRpglBeR4Rpg0RpglywQ4Rpi0hlwwzhJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@AhBtAeQ4DeRpglBtR4Rpg0RpglywQ4Rpi0hlwwzhJe?AgH
+Progress: 2.78% (1/36)
+Fumen: v115@AhQ4FeglBeR4RpAeRpglywQ4Rpg0Rphlwwzhi0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@2gRpHeRpQ4DeglBeBtR4AeRpglywBtQ4g0Rphlwwzh?i0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gBtHeQ4BtDeglBeR4RpAeRpglywQ4Rpg0Rphlwwzh?i0JeAgH
+Progress: 5.56% (2/36)
+Fumen: v115@DhQ4Ceh0AeglBeR4Rpg0RpglywQ4Rpg0RphlwwzhJe?AgH
+No 100% setups found
+Progress: 8.33% (3/36)
+Fumen: v115@AhQ4FeglBeR4Rph0AeglywQ4Rpg0Rphlwwzhg0RpJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gBtAeQ4FeglBtR4Rph0AeglywQ4Rpg0Rphlwwzhg0?RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gRpHeRpQ4DeglBeBtR4h0AeglywBtQ4g0Rphlwwzh?g0RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gBtHeQ4BtDeglBeR4Rph0AeglywQ4Rpg0Rphlwwzh?g0RpJeAgH
+Progress: 11.11% (4/36)
+Fumen: v115@ChRpg0DeglBeRpg0Q4AeRpglywh0R4RphlwwzhQ4Je?AgH
+No 100% setups found
+Progress: 13.89% (5/36)
+Fumen: v115@AhRpg0DeglBeRpg0Q4Ceglywh0R4RphlwwzhQ4RpJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gBtAeRpQ4Deg0BtRpR4Cei0ywQ4glRpzhwwilRpJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gBtAeRpg0DeglBtRpg0Q4Ceglywh0R4RphlwwzhQ4?RpJeAgH
+Progress: 16.67% (6/36)
+Fumen: v115@/gh0CeQ4Deg0RpBeR4AeRpg0RpywQ4glRpzhwwilJe?AgH
+No 100% setups found
+Progress: 19.44% (7/36)
+Fumen: v115@EhQ4Bei0RpBeR4AeRpg0RpywQ4glRpzhwwilJeAgH
+No 100% setups found
+Progress: 22.22% (8/36)
+Fumen: v115@9gh0CeQ4Deg0RpBeR4Ceg0RpywQ4glRpzhwwilRpJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeRpQ4Beg0RpBeRpR4Aeg0RpBtywQ4glzhBtww?ilJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCei0BeRpglBeBtg0Q4AeRpglywBtR4Rphlwwzh?Q4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gRpCeQ4BtBeRpglBeR4BtAeRpglywQ4i0Rphlwwzh?g0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@9gh0CeQ4BtBeg0RpBeR4BtAeg0RpywQ4glRpzhwwil?RpJeAgH
+Progress: 25.00% (9/36)
+Fumen: v115@/gQ4CeRpDeR4BeRpAeglRpg0Q4ywilRpi0wwzhJeAg?H
+No 100% setups found
+Progress: 27.78% (10/36)
+Fumen: v115@9gQ4CeRpDeR4BeRpAeglBeg0Q4ywilRpi0wwzhRpJe?AgH
+No 100% setups found
+Progress: 30.56% (11/36)
+Fumen: v115@9gwhCeRpDewhglBeRpAeg0BewhglywR4g0Rpwhhlww?R4h0RpJeAgH
+No 100% setups found
+Progress: 33.33% (12/36)
+Fumen: v115@AhRpDewhglBeRpAeg0BewhglywR4g0RpwhhlwwR4h0?RpwhJeAgH
+No 100% setups found
+Progress: 36.11% (13/36)
+Fumen: v115@AhRpBewhBeglBeRpAeg0whBeglywR4g0whRphlwwR4?h0whRpJeAgH
+No 100% setups found
+Progress: 38.89% (14/36)
+Fumen: v115@ChRpBewhBeglBeRpAeg0whRpglywR4g0whRphlwwR4?h0whJeAgH
+No 100% setups found
+Progress: 41.67% (15/36)
+Fumen: v115@9gwhEeRpBewhBeglBeRpAeg0whRpglywR4g0whRphl?wwR4h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@8gAtwhEeRpBtwhBeglBeRpAtg0whRpglywR4g0whRp?hlwwR4h0JeAgH
+Progress: 44.44% (16/36)
+Fumen: v115@/gwhCeRpDewhglBeRpAeg0RpwhglywR4g0Rpwhhlww?R4h0JeAgH
+No 100% setups found
+Progress: 47.22% (17/36)
+Fumen: v115@0gQ4HewhR4GewhglQ4Beg0Dewhglywg0Tpwhhlwwh0?TpJeAgH
+No 100% setups found
+Progress: 50.00% (18/36)
+Fumen: v115@zgQ4IeR4CewhDeglQ4Beg0whDeglywg0whTphlwwh0?whTpJeAgH
+No 100% setups found
+Progress: 52.78% (19/36)
+Fumen: v115@zgQ4IeR4EewhBeglQ4Beg0BewhBeglywg0RpwhRphl?wwh0RpwhRpJeAgH
+No 100% setups found
+Progress: 55.56% (20/36)
+Fumen: v115@zgQ4IeR4GewhglQ4Beg0Dewhglywg0Tpwhhlwwh0Tp?whJeAgH
+No 100% setups found
+Progress: 58.33% (21/36)
+Fumen: v115@1gQ4IeR4EewhBeglQ4Beg0BewhRpglywg0RpwhRphl?wwh0RpwhJeAgH
+No 100% setups found
+Progress: 61.11% (22/36)
+Fumen: v115@1gQ4IeR4CewhDeglQ4Beg0whBeRpglywg0whTphlww?h0whRpJeAgH
+No 100% setups found
+Progress: 63.89% (23/36)
+Fumen: v115@2gQ4FewhBeR4EewhBeglQ4Beg0BewhRpglywg0Rpwh?Rphlwwh0RpJeAgH
+No 100% setups found
+Progress: 66.67% (24/36)
+Fumen: v115@2gQ4HewhR4GewhglQ4Beg0BeRpwhglywg0Tpwhhlww?h0RpJeAgH
+No 100% setups found
+Progress: 69.44% (25/36)
+Fumen: v115@4gQ4DewhDeR4CewhDeglQ4Beg0whTpglywg0whTphl?wwh0JeAgH
+No 100% setups found
+Progress: 72.22% (26/36)
+Fumen: v115@4gQ4FewhBeR4EewhBeglQ4Beg0RpwhRpglywg0Rpwh?Rphlwwh0JeAgH
+No 100% setups found
+Progress: 75.00% (27/36)
+Fumen: v115@4gQ4HewhR4GewhglQ4Beg0Tpwhglywg0Tpwhhlwwh0?JeAgH
+No 100% setups found
+Progress: 77.78% (28/36)
+Fumen: v115@3gQ4IeR4CewhDeglQ4Beg0whTpglywg0whTphlwwh0?whJeAgH
+No 100% setups found
+Progress: 80.56% (29/36)
+Fumen: v115@+gi0Heglg0BeRpQ4AeRpglywRpR4RphlwwzhQ4JeAg?H
+No 100% setups found
+Progress: 83.33% (30/36)
+Fumen: v115@/ghlBeQ4FeglBeR4Tpg0glywQ4Tpi0wwzhJeAgH
+No 100% setups found
+Progress: 86.11% (31/36)
+Fumen: v115@9ghlBeQ4FeglBeR4RpBeg0glywQ4Tpi0wwzhRpJeAg?H
+No 100% setups found
+Progress: 88.89% (32/36)
+Fumen: v115@+gR4Beg0DeR4ywg0Tpilwwh0TpglDezhKeAgH
+No 100% setups found
+Progress: 91.67% (33/36)
+Fumen: v115@rgglGeilGewhIewhwwCeg0DewhxwR4g0TpwhwwR4h0?TpJeAgH
+No 100% setups found
+Progress: 94.44% (34/36)
+Fumen: v115@tgglGeilGewhIewhwwCeg0BeRpwhxwR4g0TpwhwwR4?h0RpJeAgH
+No 100% setups found
+Progress: 97.22% (35/36)
+Fumen: v115@vgglGeilGewhIewhwwCeg0TpwhxwR4g0TpwhwwR4h0?JeAgH
+No 100% setups found
+Hold Pieces: j
+Progress: 0.00% (0/46)
+Fumen: v115@/gRpFeglAeRpBeRpQ4AeglBtywRpR4hlBtwwzhQ4Je?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gRpHeRpAtFeRpBtBei0AeRpAtywR4g0glzhwwR4il?JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gh0Heg0RpFeglg0RpBeRpQ4AeglBtywRpR4hlBtww?zhQ4JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@0gRpHeRpAtFeRpBtBeg0glQ4AeRpAtywg0glR4zhww?h0hlQ4JeAgH
+Progress: 2.17% (1/46)
+Fumen: v115@5gAtHeBtEeglBeAtRpQ4AeRpglywRpR4RphlwwzhQ4?JeAgH
+No 100% setups found
+Progress: 4.35% (2/46)
+Fumen: v115@3gAtHeBtEeglBeAtRpQ4CeglywRpR4RphlwwzhQ4Rp?JeAgH
+No 100% setups found
+Progress: 6.52% (3/46)
+Fumen: v115@4gRpHeRpCezhR4ywAtilR4RpwwBtglDeRpAeAtKeAg?H
+No 100% setups found
+Progress: 8.70% (4/46)
+Fumen: v115@2gRpHeRpEeQ4ywBtzhR4wwRpBtilAeQ4AeRpBeglLe?AgH
+No 100% setups found
+Progress: 10.87% (5/46)
+Fumen: v115@4gRpHeRpCeQ4BtywzhR4BtwwRpilAeQ4CeRpglLeAg?H
+No 100% setups found
+Progress: 13.04% (6/46)
+Fumen: v115@2gRpHeRpEezhywR4AtilRpwwR4BtglBeRpCeAtKeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@rgh0Heg0RpGeg0RpEezhywR4AtilRpwwR4BtglBeRp?CeAtKeAgH
+Progress: 15.22% (7/46)
+Fumen: v115@0gAtHeBtHeAtywR4zhRpwwR4ilTpCeglBeRpJeAgH
+No 100% setups found
+Progress: 17.39% (8/46)
+Fumen: v115@0gAtHeBtHeAtywR4zhRpwwR4RpilRpCeRpglLeAgH
+No 100% setups found
+Progress: 19.57% (9/46)
+Fumen: v115@AhBtEeQ4ywBtzhR4wwRpilRpAeQ4AeRpglBeRpJeAg?H
+No 100% setups found
+Progress: 21.74% (10/46)
+Fumen: v115@AhBtEeQ4ywBtzhR4wwTpilAeQ4AeTpglLeAgH
+No 100% setups found
+Progress: 23.91% (11/46)
+Fumen: v115@ChR4CezhR4ywAtilTpwwBtglBeTpAeAtKeAgH
+No 100% setups found
+Progress: 26.09% (12/46)
+Fumen: v115@ChR4CezhR4ywAtRpilRpwwBtRpglBeRpAeAtKeAgH
+No 100% setups found
+Progress: 28.26% (13/46)
+Fumen: v115@7gQ4IeR4zhBtywQ4ilRpBtwwRpglBeRpCeRpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@wgi0HeQ4g0HeR4zhBtywQ4ilRpBtwwRpglBeRpCeRp?JeAgH
+Progress: 30.43% (14/46)
+Fumen: v115@7gQ4IeR4zhBtywQ4RpilBtwwTpglEeRpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@wgi0HeQ4g0HeR4zhBtywQ4RpilBtwwTpglEeRpJeAg?H
+Progress: 32.61% (15/46)
+Fumen: v115@6ghlIeglDeAtAeR4wwglAeRpBtR4xwTpAtzhwwRpJe?AgH
+No 100% setups found
+Progress: 34.78% (16/46)
+Fumen: v115@4ghlIeglDeAtAeR4wwglCeBtR4xwTpAtzhwwTpJeAg?H
+No 100% setups found
+Progress: 36.96% (17/46)
+Fumen: v115@7gRpHeRpzhR4ywAtilR4RpwwBtglDeRpAeAtKeAgH
+No 100% setups found
+Progress: 39.13% (18/46)
+Fumen: v115@7gRpHeTpzhywAtRpR4ilwwBtAeR4AeglCeAtKeAgH
+No 100% setups found
+Progress: 41.30% (19/46)
+Fumen: v115@zgRpHeRpHeQ4ywBtzhR4wwRpBtilAeQ4AeRpBeglLe?AgH
+No 100% setups found
+Progress: 43.48% (20/46)
+Fumen: v115@4gRpHeRpCeQ4BtywzhR4BtwwilRpAeQ4CeglBeRpJe?AgH
+No 100% setups found
+Progress: 45.65% (21/46)
+Fumen: v115@2gRpHeRpEeQ4ywzhRpR4wwilBtRpAeQ4AeglCeBtKe?AgH
+No 100% setups found
+Progress: 47.83% (22/46)
+Fumen: v115@zgRpHeRpHeQ4ywzhRpR4wwilBtRpAeQ4AeglCeBtKe?AgH
+No 100% setups found
+Progress: 50.00% (23/46)
+Fumen: v115@EhBtAeQ4zhywBtR4TpwwilAeQ4TpAeglLeAgH
+No 100% setups found
+Progress: 52.17% (24/46)
+Fumen: v115@EhBtAeTpQ4ywBtTpR4wwilzhAeQ4AeglLeAgH
+No 100% setups found
+Progress: 54.35% (25/46)
+Fumen: v115@EhBtAeTpQ4ywBtTpR4wwilAezhQ4AeglLeAgH
+No 100% setups found
+Progress: 56.52% (26/46)
+Fumen: v115@EhBtAezhQ4ywBtTpR4wwilTpAeQ4AeglLeAgH
+No 100% setups found
+Progress: 58.70% (27/46)
+Fumen: v115@2gAtHeBtFeRpAtywzhRpR4wwilRpAeR4BeglBeRpJe?AgH
+No 100% setups found
+Progress: 60.87% (28/46)
+Fumen: v115@2gAtHeBtFeRpAtywzhRpR4wwRpilAeR4BeRpglLeAg?H
+No 100% setups found
+Progress: 63.04% (29/46)
+Fumen: v115@AhBtEeQ4ywBtTpR4wwilTpAeQ4AeglAezhKeAgH
+No 100% setups found
+Progress: 65.22% (30/46)
+Fumen: v115@AhBtEeQ4ywBtTpR4wwilTpAeQ4AeglBezhJeAgH
+No 100% setups found
+Progress: 67.39% (31/46)
+Fumen: v115@AhBtEeQ4ywBtzhR4wwilTpAeQ4AeglBeTpJeAgH
+No 100% setups found
+Progress: 69.57% (32/46)
+Fumen: v115@5gQ4IeR4BezhywQ4TpilwwBtTpglDeBtKeAgH
+No 100% setups found
+Progress: 71.74% (33/46)
+Fumen: v115@5gQ4IeR4BezhywQ4RpilRpwwBtRpglBeRpBeBtKeAg?H
+No 100% setups found
+Progress: 73.91% (34/46)
+Fumen: v115@4gRpHeRpCeRpzhywAtRpR4ilwwBtAeR4AeglCeAtKe?AgH
+No 100% setups found
+Progress: 76.09% (35/46)
+Fumen: v115@1gRpHeRpFeQ4BtywzhR4BtwwilRpAeQ4CeglBeRpJe?AgH
+No 100% setups found
+Progress: 78.26% (36/46)
+Fumen: v115@1gRpHeRpFeQ4BtywzhR4BtwwRpilAeQ4CeRpglLeAg?H
+No 100% setups found
+Progress: 80.43% (37/46)
+Fumen: v115@5gRpHeRpBezhywR4AtRpilwwR4BtRpglEeAtKeAgH
+No 100% setups found
+Progress: 82.61% (38/46)
+Fumen: v115@2gRpHeRpEezhywR4AtRpilwwR4BtRpglEeAtKeAgH
+No 100% setups found
+Progress: 84.78% (39/46)
+Fumen: v115@5gRpHeRpBezhywR4AtilRpwwR4BtglBeRpCeAtKeAg?H
+No 100% setups found
+Progress: 86.96% (40/46)
+Fumen: v115@ChR4CeTpR4ywAtTpilwwBtzhglCeAtKeAgH
+No 100% setups found
+Progress: 89.13% (41/46)
+Fumen: v115@ChR4CezhR4ywAtTpilwwBtTpglCeAtKeAgH
+No 100% setups found
+Progress: 91.30% (42/46)
+Fumen: v115@+gR4GeR4ywzhAtilwwTpBtglCeTpAtKeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@5gg0DeR4Cei0AeR4ywzhAtilwwTpBtglCeTpAtKeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@5gg0DeR4Cei0AeR4ywAtTpilwwBtTpglCeAtzhKeAg?H
+Progress: 93.48% (43/46)
+Fumen: v115@+gR4GeR4ywAtTpilwwBtTpglCeAtzhKeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@5gg0DeR4Cei0AeR4ywzhAtilwwTpBtglCeTpAtKeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@5gg0DeR4Cei0AeR4ywAtTpilwwBtTpglCeAtzhKeAg?H
+Progress: 95.65% (44/46)
+Fumen: v115@+gR4GeR4ywAtTpilwwBtTpglCeAtAezhJeAgH
+No 100% setups found
+Progress: 97.83% (45/46)
+Fumen: v115@+gR4GeR4ywAtzhilwwBtTpglCeAtAeTpJeAgH
+No 100% setups found
+Hold Pieces: l
+Progress: 0.00% (0/46)
+Fumen: v115@DhRpCeAtRpBeRpAeg0BtRpywR4g0AtzhwwR4h0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@6gRpGeQ4RpBeilBeR4Rpg0glBtywQ4Rpi0BtwwzhJe?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@6ghlGeRpglBeAtRpBeRpglg0BtRpywR4g0AtzhwwR4?h0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@6gRpGeQ4RpBeAtg0glBeR4RpBtg0glywQ4RpAth0hl?wwzhJeAgH
+Progress: 2.17% (1/46)
+Fumen: v115@4gQ4IeR4FeAtRpQ4Beg0RpBtRpywg0RpAtzhwwh0Je?AgH
+No 100% setups found
+Progress: 4.35% (2/46)
+Fumen: v115@2gQ4IeR4FeAtRpQ4Beg0BeBtRpywg0RpAtzhwwh0Rp?JeAgH
+No 100% setups found
+Progress: 6.52% (3/46)
+Fumen: v115@4gRpHeRpCezhR4ywAti0R4RpwwBtBeg0BeRpAeAtKe?AgH
+No 100% setups found
+Progress: 8.70% (4/46)
+Fumen: v115@2gRpHeRpEeQ4ywBtzhR4wwRpBti0AeQ4AeRpDeg0Je?AgH
+No 100% setups found
+Progress: 10.87% (5/46)
+Fumen: v115@4gRpHeRpCeQ4BtywzhR4BtwwRpi0AeQ4CeRpBeg0Je?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@vghlGeRpglGeRpglBeQ4BtywzhR4BtwwRpi0AeQ4Ce?RpBeg0JeAgH
+Progress: 13.04% (6/46)
+Fumen: v115@2gRpHeRpEezhywR4Ati0RpwwR4BtBeg0RpCeAtKeAg?H
+No 100% setups found
+Progress: 15.22% (7/46)
+Fumen: v115@0gAtHeBtHeAtywR4zhRpwwR4i0TpEeg0RpJeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@pgilGeglAtHeBtHeAtywR4zhRpwwR4i0TpEeg0RpJe?AgH
+Progress: 17.39% (8/46)
+Fumen: v115@0gAtHeBtHeAtywR4zhRpwwR4Rpi0RpCeRpBeg0JeAg?H
+Appending to holds/holds_no_tsd_new.txt: v115@pgilGeglAtHeBtHeAtywR4zhRpwwR4Rpi0RpCeRpBe?g0JeAgH
+Progress: 19.57% (9/46)
+Fumen: v115@AhBtEeQ4ywBtzhR4wwRpi0RpAeQ4AeRpBeg0RpJeAg?H
+No 100% setups found
+Progress: 21.74% (10/46)
+Fumen: v115@AhBtEeQ4ywBtzhR4wwTpi0AeQ4AeTpBeg0JeAgH
+No 100% setups found
+Progress: 23.91% (11/46)
+Fumen: v115@ChR4CezhR4ywAti0TpwwBtBeg0TpAeAtKeAgH
+No 100% setups found
+Progress: 26.09% (12/46)
+Fumen: v115@ChR4CezhR4ywAtRpi0RpwwBtRpBeg0RpAeAtKeAgH
+No 100% setups found
+Progress: 28.26% (13/46)
+Fumen: v115@7gQ4IeR4zhBtywQ4i0RpBtwwRpBeg0RpCeRpJeAgH
+No 100% setups found
+Progress: 30.43% (14/46)
+Fumen: v115@7gQ4IeR4zhBtywQ4Rpi0BtwwTpBeg0CeRpJeAgH
+No 100% setups found
+Progress: 32.61% (15/46)
+Fumen: v115@2gh0Heg0Ieg0wwBtAeQ4AeTpxwBtR4TpwwzhQ4JeAg?H
+No 100% setups found
+Progress: 34.78% (16/46)
+Fumen: v115@0gh0Heg0Ieg0wwBtAeQ4CeRpxwBtR4TpwwzhQ4RpJe?AgH
+No 100% setups found
+Progress: 36.96% (17/46)
+Fumen: v115@7gRpHeRpzhR4ywAti0R4RpwwBtBeg0BeRpAeAtKeAg?H
+No 100% setups found
+Progress: 39.13% (18/46)
+Fumen: v115@7gRpHeTpzhywAtRpR4i0wwBtAeR4Ceg0AeAtKeAgH
+No 100% setups found
+Progress: 41.30% (19/46)
+Fumen: v115@4gRpHeRpCeRpzhywAtRpR4i0wwBtAeR4Ceg0AeAtKe?AgH
+No 100% setups found
+Progress: 43.48% (20/46)
+Fumen: v115@zgRpHeRpHeQ4ywBtzhR4wwRpBti0AeQ4AeRpDeg0Je?AgH
+No 100% setups found
+Progress: 45.65% (21/46)
+Fumen: v115@2gRpHeRpEezhywR4AtRpi0wwR4BtRpBeg0CeAtKeAg?H
+No 100% setups found
+Progress: 47.83% (22/46)
+Fumen: v115@zgRpHeRpHeQ4ywzhRpR4wwi0BtRpAeQ4Ceg0AeBtKe?AgH
+No 100% setups found
+Progress: 50.00% (23/46)
+Fumen: v115@2gAtHeBtFeRpAtywzhRpR4wwi0RpAeR4Deg0RpJeAg?H
+No 100% setups found
+Progress: 52.17% (24/46)
+Fumen: v115@2gAtHeBtFeRpAtywzhRpR4wwRpi0AeR4BeRpBeg0Je?AgH
+No 100% setups found
+Progress: 54.35% (25/46)
+Fumen: v115@ChR4CeTpR4ywAtTpi0wwBtzhBeg0AeAtKeAgH
+No 100% setups found
+Progress: 56.52% (26/46)
+Fumen: v115@ChR4CeTpR4ywAtTpi0wwBtAezhAeg0AeAtKeAgH
+No 100% setups found
+Progress: 58.70% (27/46)
+Fumen: v115@ChR4CezhR4ywAtTpi0wwBtTpBeg0AeAtKeAgH
+No 100% setups found
+Progress: 60.87% (28/46)
+Fumen: v115@5gQ4IeR4BezhywQ4Tpi0wwBtTpBeg0BeBtKeAgH
+No 100% setups found
+Progress: 63.04% (29/46)
+Fumen: v115@5gQ4IeR4BezhywQ4Rpi0RpwwBtRpBeg0RpBeBtKeAg?H
+No 100% setups found
+Progress: 65.22% (30/46)
+Fumen: v115@+gR4GeR4ywzhAti0wwTpBtBeg0AeTpAtKeAgH
+No 100% setups found
+Progress: 67.39% (31/46)
+Fumen: v115@+gR4GeR4ywAtTpi0wwBtTpBeg0AeAtzhKeAgH
+No 100% setups found
+Progress: 69.57% (32/46)
+Fumen: v115@+gR4GeR4ywAtTpi0wwBtTpBeg0AeAtAezhJeAgH
+No 100% setups found
+Progress: 71.74% (33/46)
+Fumen: v115@+gR4GeR4ywAtzhi0wwBtTpBeg0AeAtAeTpJeAgH
+No 100% setups found
+Progress: 73.91% (34/46)
+Fumen: v115@4gRpHeRpCeQ4BtywzhR4Btwwi0RpAeQ4Eeg0RpJeAg?H
+No 100% setups found
+Progress: 76.09% (35/46)
+Fumen: v115@1gRpHeRpFeQ4BtywzhR4Btwwi0RpAeQ4Eeg0RpJeAg?H
+No 100% setups found
+Progress: 78.26% (36/46)
+Fumen: v115@1gRpHeRpFeQ4BtywzhR4BtwwRpi0AeQ4CeRpBeg0Je?AgH
+No 100% setups found
+Progress: 80.43% (37/46)
+Fumen: v115@5gRpHeRpBezhywR4AtRpi0wwR4BtRpBeg0CeAtKeAg?H
+No 100% setups found
+Progress: 82.61% (38/46)
+Fumen: v115@5gRpHeRpBezhywR4Ati0RpwwR4BtBeg0RpCeAtKeAg?H
+No 100% setups found
+Progress: 84.78% (39/46)
+Fumen: v115@2gRpHeRpEeQ4ywzhRpR4wwi0BtRpAeQ4Ceg0AeBtKe?AgH
+No 100% setups found
+Progress: 86.96% (40/46)
+Fumen: v115@EhBtAeQ4zhywBtR4Tpwwi0AeQ4TpCeg0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gglGeilCeBtAeQ4zhywBtR4Tpwwi0AeQ4TpCeg0Je?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gglGeilCeBtAeTpQ4ywBtTpR4wwi0AezhQ4Ceg0Je?AgH
+Progress: 89.13% (41/46)
+Fumen: v115@EhBtAeTpQ4ywBtTpR4wwi0zhAeQ4Ceg0JeAgH
+No 100% setups found
+Progress: 91.30% (42/46)
+Fumen: v115@EhBtAeTpQ4ywBtTpR4wwi0AezhQ4Ceg0JeAgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gglGeilCeBtAeQ4zhywBtR4Tpwwi0AeQ4TpCeg0Je?AgH
+Appending to holds/holds_no_tsd_new.txt: v115@2gglGeilCeBtAeTpQ4ywBtTpR4wwi0AezhQ4Ceg0Je?AgH
+Progress: 93.48% (43/46)
+Fumen: v115@EhBtAezhQ4ywBtTpR4wwi0TpAeQ4Ceg0JeAgH
+No 100% setups found
+Progress: 95.65% (44/46)
+Fumen: v115@AhBtEeQ4ywBtTpR4wwi0TpAeQ4Ceg0zhJeAgH
+No 100% setups found
+Progress: 97.83% (45/46)
+Fumen: v115@AhBtEeQ4ywBtzhR4wwi0TpAeQ4Ceg0TpJeAgH
+No 100% setups found
+Hold Pieces: i
+Progress: 0.00% (0/18)
+Fumen: v115@ChBtAeQ4AeilywBtR4gli0wwTpQ4Ceg0AeTpKeAgH
+No 100% setups found
+Progress: 5.56% (1/18)
+Fumen: v115@+gAtAeR4EeBtR4ywi0AtTpwwilg0AeTpAeglMeAgH
+No 100% setups found
+Progress: 11.11% (2/18)
+Fumen: v115@4gRpHeRpAeQ4AeilywBtR4gli0wwRpBtQ4Ceg0AeRp?MeAgH
+No 100% setups found
+Progress: 16.67% (3/18)
+Fumen: v115@+gAtDehlBeBtR4ywglRpAtR4Rpwwg0glRpCeRpAei0?KeAgH
+No 100% setups found
+Progress: 22.22% (4/18)
+Fumen: v115@/gh0DeQ4AeRpg0ywBtR4Rpg0glwwRpBtQ4AeilAeRp?MeAgH
+No 100% setups found
+Progress: 27.78% (5/18)
+Fumen: v115@2gRpFeAtAeRpEeBtR4ywi0AtR4Rpwwilg0CeRpAegl?MeAgH
+No 100% setups found
+Progress: 33.33% (6/18)
+Fumen: v115@/gg0DeBtAeRpi0ywBtRpR4RpwwilAeR4AeRpAeglLe?AgH
+No 100% setups found
+Progress: 38.89% (7/18)
+Fumen: v115@9gg0FeBtAei0R4ywBtRpR4RpwwilRpBeRpAeglLeAg?H
+No 100% setups found
+Progress: 44.44% (8/18)
+Fumen: v115@+gR4FeglR4ywBtili0wwRpBtRpBeg0AeRpBeRpJeAg?H
+No 100% setups found
+Progress: 50.00% (9/18)
+Fumen: v115@+gR4DeglBeR4ywilRpi0wwRpBtRpBeg0AeRpAeBtKe?AgH
+No 100% setups found
+Progress: 55.56% (10/18)
+Fumen: v115@1gRpHeRpDeQ4AeilywBtR4gli0wwRpBtQ4Ceg0AeRp?MeAgH
+No 100% setups found
+Progress: 61.11% (11/18)
+Fumen: v115@3gRpHeRpBeQ4AeilBtywR4gli0BtwwRpQ4Ceg0CeRp?KeAgH
+No 100% setups found
+Progress: 66.67% (12/18)
+Fumen: v115@3gRpEeAtBeRpDeBtywR4i0AtRpwwR4ilg0AeRpCegl?MeAgH
+No 100% setups found
+Progress: 72.22% (13/18)
+Fumen: v115@5gRpCeAtDeRpBeBtR4ywi0AtR4Rpwwilg0CeRpAegl?MeAgH
+No 100% setups found
+Progress: 77.78% (14/18)
+Fumen: v115@+gR4Beg0DeR4ywi0RpilwwRpBtRpglCeRpAeBtKeAg?H
+No 100% setups found
+Progress: 83.33% (15/18)
+Fumen: v115@BhglBeBtAeRpilywBtRpR4Rpwwi0AeR4AeRpCeg0Je?AgH
+No 100% setups found
+Progress: 88.89% (16/18)
+Fumen: v115@+gR4Deg0BeR4ywBti0ilwwRpBtRpglCeRpBeRpJeAg?H
+No 100% setups found
+Progress: 94.44% (17/18)
+Fumen: v115@/gglDeBtAeilR4ywBtRpR4Rpwwi0RpBeRpCeg0JeAg?H
+No 100% setups found

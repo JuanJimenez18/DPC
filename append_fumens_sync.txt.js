@@ -1,8 +1,6 @@
 const fs = require('fs').promises;
 
-async function append_fumens(dataToAppend) {
-    const filePath = 'holds/holds_no_tsd_new.txt';
-
+async function append_fumens(filePath, dataToAppend) {
     try {
         // Join the array elements with newline characters
         const formattedData = dataToAppend.join('\n');

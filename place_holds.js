@@ -67,13 +67,15 @@ function place_holds (base_fumen, hold_pieces){
 
 }
 
-// let base_fumen = 'v115@ChRpg0BeglDeRpg0Q4AeglBtywh0R4hlBtwwzhQ4Je?AgH'
-// let hold_pieces = "z"
+// let base_fumen = 'v115@vhAAgH'
+// let hold_pieces = "t"
 //
 // let results = place_holds(base_fumen, hold_pieces);
-//
-// console.log(results);
 
+// console.log(results);
+//
+// console.log(results.length);
+//
 // for (let result of results) {
 //     console.log(result);
 // }

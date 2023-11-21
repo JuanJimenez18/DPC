@@ -17,7 +17,7 @@ function asyncExec(command) {
     });
 }
 
-async function call_sfinder_percent(fumens) {
+async function call_sfinder_percent(fumens, hold_pieces) {
     // Find the index of '?'
     const index = fumens.indexOf('?');
     // let pages = decoder.decode(fumens.substring(index + 1));
@@ -25,7 +25,7 @@ async function call_sfinder_percent(fumens) {
     for (let i = 0; i < fumens.length; i++) {
         let fumen = fumens[i];
 
-        let command = `java -jar sfinder.jar percent --clear 6 --drop 180 --tetfu ${fumen} --patterns *p7 --log-path "output/percents/${i}.txt"`;
+        let command = `java -jar sfinder.jar percent --clear 6 --drop 180 --tetfu ${fumen} --patterns ${hold_pieces}*p7 --log-path "output/percents/${i}.txt"`;
 
         try {
             const result = await asyncExec(command);

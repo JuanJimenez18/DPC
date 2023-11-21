@@ -22,7 +22,7 @@ const {append_fumens} = require('./append_fumens_sync.txt');
 
 
 async function main() {
-    let hold_piece = 'l';
+    let hold_piece = 't';
     console.log("Hold piece: " + hold_piece);
 
     let hold_dict;
@@ -45,6 +45,10 @@ async function main() {
             continue; //skip this iteration of the for loop if this is a no hold key
         }
 
+        console.log(hold_dict);
+
+        return;
+
         let filePath = 'holds/holds_no_tsd_new.txt'
 
         // let key = 'oz';
@@ -66,6 +70,32 @@ async function main() {
             // hold_piece = 'z'
 
             // console.log(fumen);
+            // a function that calls sfinder percents on the field to see if the field is 100%
+
+            try {
+                await call_sfinder_percent([fumen], hold_pieces);
+                // console.log("Call sfinder to find percents of hold fumens complete")
+
+            } catch (error) {
+                console.error('Error in calling sfinder percents', error);
+            }
+
+            //a function that reads the percent and checks that its 100% before placing the pieces down
+
+            let fumen_field;
+
+            try {
+                fumen_field = await read_percents(fumen);
+                // console.log("Read percents complete ")
+
+            } catch (error) {
+                console.error('Error in calling sfinder percents', error);
+            }
+
+            if(fumen_field.length === 0) {
+                console.log("Hold setup is not 100%.")
+                continue;
+            }
 
             // Call the function Place holds to generate the list of place holds fumens
 
@@ -75,7 +105,7 @@ async function main() {
             // Call sfinder percent to find the 100% setup fumen fields
 
             try {
-                await call_sfinder_percent(place_holds_fumens);
+                await call_sfinder_percent(place_holds_fumens, '');
                 // console.log("Call sfinder to find percents of hold fumens complete")
 
             } catch (error) {

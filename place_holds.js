@@ -63,6 +63,7 @@ function place_holds (base_fumen, hold_pieces){
 
     }
 
+
     return Array.from(results);
 
 }

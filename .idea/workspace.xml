@@ -5,11 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc86dcc5-6ecd-4876-8bd1-624e4bf0e6dd" name="Changes" comment="Debugging and Webstorm push">
+      <change afterPath="$PROJECT_DIR$/output/logs/Z logs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/call_sfinder_percent_async.js" beforeDir="false" afterPath="$PROJECT_DIR$/call_sfinder_percent_async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input/inputFumens.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input/inputFumens.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_sfinder_cover_sync.js" beforeDir="false" afterPath="$PROJECT_DIR$/call_sfinder_cover_sync.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/call_sfinder_setup_congruent_async.js" beforeDir="false" afterPath="$PROJECT_DIR$/call_sfinder_setup_congruent_async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_T_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Ti_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tij_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tis_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tj_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tjo_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tjs_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tjz_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tl_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_To_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tos_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Toz_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Ts_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tsz_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/hold_Tz_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/holds_all_tsd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/holds/holds_no_tsd_new.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/logs/O Logs.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input/my_no_hold_tsd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input/my_no_hold_tsd.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/logs/L append logs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/logs/O append log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/logs/Z append log.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/place_holds.js" beforeDir="false" afterPath="$PROJECT_DIR$/place_holds.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,23 +54,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "javascript.nodejs.core.library.configured.version": "18.12.1",
-    "javascript.nodejs.core.library.typings.version": "18.18.9",
-    "last_opened_file_path": "C:/Users/jimenezj/IdeaProjects/DPC",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.12.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.18.9&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jimenezj/IdeaProjects/DPC&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jimenezj\WebstormProjects\dpc" />
@@ -61,7 +83,7 @@
       <recent name="C:\Users\jimenezj\WebstormProjects\dpc" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.main.js">
+  <component name="RunManager" selected="Node.js.main2.js">
     <configuration name="call_sfinder_percent_async.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/call_sfinder_percent_async.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -79,9 +101,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.main2.js" />
         <item itemvalue="Node.js.main.js" />
         <item itemvalue="Node.js.place_holds.js" />
-        <item itemvalue="Node.js.main2.js" />
         <item itemvalue="Node.js.call_sfinder_percent_async.js" />
         <item itemvalue="Node.js.place_holds_2.js" />
       </list>
@@ -120,7 +142,17 @@
       <workItem from="1700483504762" duration="1128000" />
       <workItem from="1700485006541" duration="1598000" />
       <workItem from="1700515404213" duration="41000" />
-      <workItem from="1700516008160" duration="1278000" />
+      <workItem from="1700516008160" duration="1332000" />
+      <workItem from="1700525312185" duration="1267000" />
+      <workItem from="1700528472730" duration="7163000" />
+      <workItem from="1700541144710" duration="15000" />
+      <workItem from="1700564692658" duration="5754000" />
+      <workItem from="1700650445731" duration="8497000" />
+      <workItem from="1700746352393" duration="8337000" />
+      <workItem from="1700760169597" duration="2000" />
+      <workItem from="1700799136277" duration="13000" />
+      <workItem from="1700802698332" duration="1000" />
+      <workItem from="1700802952722" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="Debugging and Webstorm push">
       <created>1699938794568</created>

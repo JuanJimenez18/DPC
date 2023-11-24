@@ -45,10 +45,6 @@ async function main() {
             continue; //skip this iteration of the for loop if this is a no hold key
         }
 
-        console.log(hold_dict);
-
-        return;
-
         let filePath = 'holds/holds_no_tsd_new.txt'
 
         // let key = 'oz';
@@ -85,16 +81,13 @@ async function main() {
             let fumen_field;
 
             try {
-                fumen_field = await read_percents(fumen);
-                // console.log("Read percents complete ")
-
+                fumen_field = await read_percents([fumen]);
+                if(fumen_field.length === 0) {
+                    // console.log("Hold setup is not 100%.")
+                    continue;
+                }
             } catch (error) {
                 console.error('Error in calling sfinder percents', error);
-            }
-
-            if(fumen_field.length === 0) {
-                console.log("Hold setup is not 100%.")
-                continue;
             }
 
             // Call the function Place holds to generate the list of place holds fumens

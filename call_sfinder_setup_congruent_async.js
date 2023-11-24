@@ -15,7 +15,7 @@ async function call_sfinder_setup_congruent(fumen, hold_piece) {
                 reject(new Error(`stderr: ${stderr}`));
                 return;
             }
-            resolve(stdout);
+            // resolve(stdout);
         });
     });
 }

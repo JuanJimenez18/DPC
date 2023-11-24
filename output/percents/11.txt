@@ -1,0 +1,399 @@
+# Setup Field
+__________
+__XXX__X__
+___X___XXX
+XXXXXXXXXX
+XXXXXXXXXX
+___X___XXX
+
+# Initialize / User-defined
+Max clear lines: 6
+Using hold: use
+Drop: rotation180
+Searching patterns:
+  *p7
+
+# Initialize / System
+Threads = 8
+Version = 1.0
+Necessary Pieces = 7
+
+# Enumerate pieces
+Piece pop count = 7
+Searching pattern size (duplicate) = 5040
+Searching pattern size ( no dup. ) = 5040
+
+# Search
+  -> Stopwatch start
+  -> Stopwatch stop : avg.time = 3489 ms [1 counts]
+
+# Output
+success = 42.14% (2124/5040)
+
+Success pattern tree [Head 3 pieces]:
+* -> 42.14 %
+∟ T -> 24.72 %
+  ∟ TI -> 0.00 %
+    ∟ TIL -> 0.00 %
+    ∟ TIJ -> 0.00 %
+    ∟ TIS -> 0.00 %
+    ∟ TIZ -> 0.00 %
+    ∟ TIO -> 0.00 %
+  ∟ TL -> 40.00 %
+    ∟ TLI -> 58.33 %
+    ∟ TLJ -> 50.00 %
+    ∟ TLS -> 16.67 %
+    ∟ TLZ -> 16.67 %
+    ∟ TLO -> 58.33 %
+  ∟ TJ -> 40.00 %
+    ∟ TJI -> 0.00 %
+    ∟ TJL -> 50.00 %
+    ∟ TJS -> 62.50 %
+    ∟ TJZ -> 37.50 %
+    ∟ TJO -> 50.00 %
+  ∟ TS -> 31.67 %
+    ∟ TSI -> 12.50 %
+    ∟ TSL -> 29.17 %
+    ∟ TSJ -> 50.00 %
+    ∟ TSZ -> 25.00 %
+    ∟ TSO -> 41.67 %
+  ∟ TZ -> 5.00 %
+    ∟ TZI -> 0.00 %
+    ∟ TZL -> 16.67 %
+    ∟ TZJ -> 0.00 %
+    ∟ TZS -> 0.00 %
+    ∟ TZO -> 8.33 %
+  ∟ TO -> 31.67 %
+    ∟ TOI -> 0.00 %
+    ∟ TOL -> 58.33 %
+    ∟ TOJ -> 50.00 %
+    ∟ TOS -> 41.67 %
+    ∟ TOZ -> 8.33 %
+∟ I -> 32.78 %
+  ∟ IT -> 0.00 %
+    ∟ ITL -> 0.00 %
+    ∟ ITJ -> 0.00 %
+    ∟ ITS -> 0.00 %
+    ∟ ITZ -> 0.00 %
+    ∟ ITO -> 0.00 %
+  ∟ IL -> 70.00 %
+    ∟ ILT -> 58.33 %
+    ∟ ILJ -> 75.00 %
+    ∟ ILS -> 58.33 %
+    ∟ ILZ -> 58.33 %
+    ∟ ILO -> 100.00 %
+  ∟ IJ -> 43.33 %
+    ∟ IJT -> 0.00 %
+    ∟ IJL -> 75.00 %
+    ∟ IJS -> 50.00 %
+    ∟ IJZ -> 37.50 %
+    ∟ IJO -> 54.17 %
+  ∟ IS -> 25.00 %
+    ∟ IST -> 12.50 %
+    ∟ ISL -> 50.00 %
+    ∟ ISJ -> 25.00 %
+    ∟ ISZ -> 0.00 %
+    ∟ ISO -> 37.50 %
+  ∟ IZ -> 15.00 %
+    ∟ IZT -> 0.00 %
+    ∟ IZL -> 50.00 %
+    ∟ IZJ -> 0.00 %
+    ∟ IZS -> 0.00 %
+    ∟ IZO -> 25.00 %
+  ∟ IO -> 43.33 %
+    ∟ IOT -> 0.00 %
+    ∟ IOL -> 100.00 %
+    ∟ IOJ -> 54.17 %
+    ∟ IOS -> 37.50 %
+    ∟ IOZ -> 25.00 %
+∟ L -> 57.50 %
+  ∟ LT -> 40.00 %
+    ∟ LTI -> 58.33 %
+    ∟ LTJ -> 50.00 %
+    ∟ LTS -> 16.67 %
+    ∟ LTZ -> 16.67 %
+    ∟ LTO -> 58.33 %
+  ∟ LI -> 70.00 %
+    ∟ LIT -> 58.33 %
+    ∟ LIJ -> 75.00 %
+    ∟ LIS -> 58.33 %
+    ∟ LIZ -> 58.33 %
+    ∟ LIO -> 100.00 %
+  ∟ LJ -> 70.00 %
+    ∟ LJT -> 50.00 %
+    ∟ LJI -> 75.00 %
+    ∟ LJS -> 75.00 %
+    ∟ LJZ -> 62.50 %
+    ∟ LJO -> 87.50 %
+  ∟ LS -> 50.00 %
+    ∟ LST -> 29.17 %
+    ∟ LSI -> 58.33 %
+    ∟ LSJ -> 75.00 %
+    ∟ LSZ -> 16.67 %
+    ∟ LSO -> 70.83 %
+  ∟ LZ -> 40.00 %
+    ∟ LZT -> 16.67 %
+    ∟ LZI -> 58.33 %
+    ∟ LZJ -> 50.00 %
+    ∟ LZS -> 16.67 %
+    ∟ LZO -> 58.33 %
+  ∟ LO -> 75.00 %
+    ∟ LOT -> 58.33 %
+    ∟ LOI -> 100.00 %
+    ∟ LOJ -> 87.50 %
+    ∟ LOS -> 70.83 %
+    ∟ LOZ -> 58.33 %
+∟ J -> 56.94 %
+  ∟ JT -> 40.00 %
+    ∟ JTI -> 0.00 %
+    ∟ JTL -> 50.00 %
+    ∟ JTS -> 62.50 %
+    ∟ JTZ -> 37.50 %
+    ∟ JTO -> 50.00 %
+  ∟ JI -> 43.33 %
+    ∟ JIT -> 0.00 %
+    ∟ JIL -> 75.00 %
+    ∟ JIS -> 50.00 %
+    ∟ JIZ -> 37.50 %
+    ∟ JIO -> 54.17 %
+  ∟ JL -> 70.00 %
+    ∟ JLT -> 50.00 %
+    ∟ JLI -> 75.00 %
+    ∟ JLS -> 75.00 %
+    ∟ JLZ -> 62.50 %
+    ∟ JLO -> 87.50 %
+  ∟ JS -> 66.67 %
+    ∟ JST -> 62.50 %
+    ∟ JSI -> 50.00 %
+    ∟ JSL -> 75.00 %
+    ∟ JSZ -> 62.50 %
+    ∟ JSO -> 83.33 %
+  ∟ JZ -> 53.33 %
+    ∟ JZT -> 37.50 %
+    ∟ JZI -> 37.50 %
+    ∟ JZL -> 62.50 %
+    ∟ JZS -> 62.50 %
+    ∟ JZO -> 66.67 %
+  ∟ JO -> 68.33 %
+    ∟ JOT -> 50.00 %
+    ∟ JOI -> 54.17 %
+    ∟ JOL -> 87.50 %
+    ∟ JOS -> 83.33 %
+    ∟ JOZ -> 66.67 %
+∟ S -> 41.94 %
+  ∟ ST -> 31.67 %
+    ∟ STI -> 12.50 %
+    ∟ STL -> 29.17 %
+    ∟ STJ -> 50.00 %
+    ∟ STZ -> 25.00 %
+    ∟ STO -> 41.67 %
+  ∟ SI -> 25.00 %
+    ∟ SIT -> 12.50 %
+    ∟ SIL -> 50.00 %
+    ∟ SIJ -> 25.00 %
+    ∟ SIZ -> 0.00 %
+    ∟ SIO -> 37.50 %
+  ∟ SL -> 50.00 %
+    ∟ SLT -> 29.17 %
+    ∟ SLI -> 58.33 %
+    ∟ SLJ -> 75.00 %
+    ∟ SLZ -> 16.67 %
+    ∟ SLO -> 70.83 %
+  ∟ SJ -> 66.67 %
+    ∟ SJT -> 62.50 %
+    ∟ SJI -> 50.00 %
+    ∟ SJL -> 75.00 %
+    ∟ SJZ -> 62.50 %
+    ∟ SJO -> 83.33 %
+  ∟ SZ -> 25.00 %
+    ∟ SZT -> 25.00 %
+    ∟ SZI -> 0.00 %
+    ∟ SZL -> 16.67 %
+    ∟ SZJ -> 50.00 %
+    ∟ SZO -> 33.33 %
+  ∟ SO -> 53.33 %
+    ∟ SOT -> 41.67 %
+    ∟ SOI -> 37.50 %
+    ∟ SOL -> 70.83 %
+    ∟ SOJ -> 83.33 %
+    ∟ SOZ -> 33.33 %
+∟ Z -> 29.44 %
+  ∟ ZT -> 5.00 %
+    ∟ ZTI -> 0.00 %
+    ∟ ZTL -> 16.67 %
+    ∟ ZTJ -> 0.00 %
+    ∟ ZTS -> 0.00 %
+    ∟ ZTO -> 8.33 %
+  ∟ ZI -> 15.00 %
+    ∟ ZIT -> 0.00 %
+    ∟ ZIL -> 50.00 %
+    ∟ ZIJ -> 0.00 %
+    ∟ ZIS -> 0.00 %
+    ∟ ZIO -> 25.00 %
+  ∟ ZL -> 40.00 %
+    ∟ ZLT -> 16.67 %
+    ∟ ZLI -> 58.33 %
+    ∟ ZLJ -> 50.00 %
+    ∟ ZLS -> 16.67 %
+    ∟ ZLO -> 58.33 %
+  ∟ ZJ -> 53.33 %
+    ∟ ZJT -> 37.50 %
+    ∟ ZJI -> 37.50 %
+    ∟ ZJL -> 62.50 %
+    ∟ ZJS -> 62.50 %
+    ∟ ZJO -> 66.67 %
+  ∟ ZS -> 25.00 %
+    ∟ ZST -> 25.00 %
+    ∟ ZSI -> 0.00 %
+    ∟ ZSL -> 16.67 %
+    ∟ ZSJ -> 50.00 %
+    ∟ ZSO -> 33.33 %
+  ∟ ZO -> 38.33 %
+    ∟ ZOT -> 8.33 %
+    ∟ ZOI -> 25.00 %
+    ∟ ZOL -> 58.33 %
+    ∟ ZOJ -> 66.67 %
+    ∟ ZOS -> 33.33 %
+∟ O -> 51.67 %
+  ∟ OT -> 31.67 %
+    ∟ OTI -> 0.00 %
+    ∟ OTL -> 58.33 %
+    ∟ OTJ -> 50.00 %
+    ∟ OTS -> 41.67 %
+    ∟ OTZ -> 8.33 %
+  ∟ OI -> 43.33 %
+    ∟ OIT -> 0.00 %
+    ∟ OIL -> 100.00 %
+    ∟ OIJ -> 54.17 %
+    ∟ OIS -> 37.50 %
+    ∟ OIZ -> 25.00 %
+  ∟ OL -> 75.00 %
+    ∟ OLT -> 58.33 %
+    ∟ OLI -> 100.00 %
+    ∟ OLJ -> 87.50 %
+    ∟ OLS -> 70.83 %
+    ∟ OLZ -> 58.33 %
+  ∟ OJ -> 68.33 %
+    ∟ OJT -> 50.00 %
+    ∟ OJI -> 54.17 %
+    ∟ OJL -> 87.50 %
+    ∟ OJS -> 83.33 %
+    ∟ OJZ -> 66.67 %
+  ∟ OS -> 53.33 %
+    ∟ OST -> 41.67 %
+    ∟ OSI -> 37.50 %
+    ∟ OSL -> 70.83 %
+    ∟ OSJ -> 83.33 %
+    ∟ OSZ -> 33.33 %
+  ∟ OZ -> 38.33 %
+    ∟ OZT -> 8.33 %
+    ∟ OZI -> 25.00 %
+    ∟ OZL -> 58.33 %
+    ∟ OZJ -> 66.67 %
+    ∟ OZS -> 33.33 %
+
+-------------------
+Fail pattern (max. 100)
+[T, L, Z, J, S, O, I]
+[S, T, L, O, J, I, Z]
+[T, Z, S, O, L, I, J]
+[T, O, Z, J, I, L, S]
+[Z, T, S, L, O, I, J]
+[Z, S, I, O, L, J, T]
+[S, Z, I, O, L, J, T]
+[S, T, Z, O, L, I, J]
+[O, J, Z, I, T, S, L]
+[Z, T, O, J, I, L, S]
+[J, T, Z, S, L, I, O]
+[Z, I, S, T, L, O, J]
+[T, S, L, O, J, I, Z]
+[S, L, I, T, J, O, Z]
+[T, Z, S, L, O, I, J]
+[T, S, Z, O, L, I, J]
+[J, O, Z, I, T, S, L]
+[Z, S, I, L, O, J, T]
+[S, I, O, J, L, Z, T]
+[L, S, I, T, J, O, Z]
+[Z, J, T, I, L, S, O]
+[T, J, Z, S, L, I, O]
+[S, T, O, I, L, Z, J]
+[S, Z, I, L, O, J, T]
+[I, Z, S, T, L, O, J]
+[O, L, S, T, Z, J, I]
+[S, T, Z, L, O, I, J]
+[S, I, L, T, J, O, Z]
+[T, Z, O, J, I, L, S]
+[J, Z, T, I, L, S, O]
+[I, S, O, J, L, Z, T]
+[Z, J, O, I, T, S, L]
+[T, S, O, I, L, Z, J]
+[S, I, Z, T, L, O, J]
+[L, O, S, T, Z, J, I]
+[T, S, Z, L, O, I, J]
+[Z, T, S, I, O, L, J]
+[I, T, O, L, J, S, Z]
+[T, I, O, L, J, S, Z]
+[J, Z, O, I, T, S, L]
+[L, T, S, O, J, I, Z]
+[Z, I, S, J, O, L, T]
+[I, S, L, T, J, O, Z]
+[T, L, S, O, J, I, Z]
+[I, S, Z, T, L, O, J]
+[I, Z, S, J, O, L, T]
+[T, Z, S, I, O, L, J]
+[S, J, T, Z, L, I, O]
+[S, T, Z, I, O, L, J]
+[Z, I, S, O, L, J, T]
+[S, I, Z, J, O, L, T]
+[T, I, L, O, Z, S, J]
+[S, L, O, T, Z, J, I]
+[L, I, S, T, J, O, Z]
+[O, I, T, Z, J, S, L]
+[I, T, L, O, Z, S, J]
+[T, S, Z, I, O, L, J]
+[I, Z, S, O, L, J, T]
+[J, S, T, Z, L, I, O]
+[I, S, Z, J, O, L, T]
+[L, S, O, T, Z, J, I]
+[J, S, I, T, L, Z, O]
+[Z, T, J, I, L, S, O]
+[Z, I, S, L, O, J, T]
+[S, J, I, T, L, Z, O]
+[I, O, T, Z, J, S, L]
+[I, L, S, T, J, O, Z]
+[S, I, Z, O, L, J, T]
+[O, J, I, T, Z, L, S]
+[O, T, I, Z, J, S, L]
+[Z, S, T, I, L, O, J]
+[I, Z, S, L, O, J, T]
+[J, O, I, T, Z, L, S]
+[I, S, Z, O, L, J, T]
+[S, Z, T, I, L, O, J]
+[T, Z, J, I, L, S, O]
+[L, I, T, S, Z, O, J]
+[S, I, Z, L, O, J, T]
+[I, L, T, S, Z, O, J]
+[T, O, I, Z, J, S, L]
+[O, I, T, S, J, Z, L]
+[I, S, Z, L, O, J, T]
+[Z, S, I, J, L, O, T]
+[S, I, J, T, L, Z, O]
+[O, Z, I, J, S, T, L]
+[S, Z, I, J, L, O, T]
+[Z, O, I, J, S, T, L]
+[I, O, T, S, J, Z, L]
+[O, I, J, T, Z, L, S]
+[S, T, J, Z, L, I, O]
+[L, T, I, S, Z, O, J]
+[I, S, J, T, L, Z, O]
+[J, T, Z, I, L, S, O]
+[T, L, I, S, Z, O, J]
+[O, T, I, S, J, Z, L]
+[T, J, Z, I, L, S, O]
+[I, O, J, T, Z, L, S]
+[J, I, S, T, L, Z, O]
+[T, O, I, S, J, Z, L]
+[T, S, J, Z, L, I, O]
+
+# Finalize
+done

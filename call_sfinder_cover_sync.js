@@ -30,19 +30,19 @@ async function sfinder_cover(fumens, hold_piece) {
         const fumens_str = fumens.join(" ");
         // let temp_pieces = 'S'; // Read from the file for what temp pieces (Possible parameter for this call sfinder function)
         let pattern = hold_piece + "*p7";
-        let command = "java -jar sfinder.jar cover --drop 180 --mode tsd --tetfu " + fumens_str + " --patterns " + pattern + " --log-path output/covers/cover.txt ";
+        let command = "java -jar sfinder.jar cover --drop 180 --mode b2b --tetfu " + fumens_str + " --patterns " + pattern + " --log-path output/covers/cover.txt ";
 
         // console.log(command);
         const { stdout, stderr } = await executeCommand(command);
 
         if (stderr) {
-            console.error(`stderr: ${stderr}`);
+            // console.error(`stderr: ${stderr}`);
             return;
         }
 
         // console.log(`stdout: ${stdout}`);
     } catch (error) {
-        console.error(`Error: ${error.message}`);
+        // console.error(`Error: ${error.message}`);
     }
 }
 //

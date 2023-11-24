@@ -15,7 +15,7 @@ async function main() {
     let toFilePath = 'holds/my_no_hold_tsd_new.txt'
     let fumens = [];
 
-    let hold_piece = 'l'
+    let hold_piece = 't'
 
     try {
         const data = await fs.readFile(filePath, 'utf8');
